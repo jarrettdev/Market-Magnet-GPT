@@ -302,6 +302,33 @@ def get_word_frequencies(text):
     return counter
 
 
+def create_heatmap(df):
+    plt.figure(figsize=(12, 6))
+    sns.heatmap(df, annot=True, cmap='coolwarm', fmt='g', linewidths=0.5)
+    plt.title('Word Frequencies in Different Subreddits')
+    plt.xlabel('Common Words')
+    plt.ylabel('Subreddits')
+    plt.show()
+'''
+
+create_heatmap(df)
+# Step 1: Get the intersection of sets of words for each subreddit
+common_words = set(df.columns)
+for subreddit in df.index:
+    subreddit_words = set(df.loc[subreddit].dropna().index)
+    common_words = common_words.intersection(subreddit_words)
+
+# Step 2: Create a new DataFrame with only the common words
+common_words_df = df[list(common_words)]
+
+# Step 3: Visualize the common word frequencies
+ax = common_words_df.plot.bar(figsize=(12, 8))
+ax.set_ylabel('Frequency')
+ax.set_title('Common Word Frequencies Across Subreddits')
+plt.xticks(rotation=45)
+plt.show()
+'''
+
 # Main script
 if __name__ == "__main__":
 
@@ -375,30 +402,3 @@ if __name__ == "__main__":
 
     df = pd.DataFrame(subreddit_word_freqs).transpose()
     #print(df)
-
-def create_heatmap(df):
-    plt.figure(figsize=(12, 6))
-    sns.heatmap(df, annot=True, cmap='coolwarm', fmt='g', linewidths=0.5)
-    plt.title('Word Frequencies in Different Subreddits')
-    plt.xlabel('Common Words')
-    plt.ylabel('Subreddits')
-    plt.show()
-'''
-
-create_heatmap(df)
-# Step 1: Get the intersection of sets of words for each subreddit
-common_words = set(df.columns)
-for subreddit in df.index:
-    subreddit_words = set(df.loc[subreddit].dropna().index)
-    common_words = common_words.intersection(subreddit_words)
-
-# Step 2: Create a new DataFrame with only the common words
-common_words_df = df[list(common_words)]
-
-# Step 3: Visualize the common word frequencies
-ax = common_words_df.plot.bar(figsize=(12, 8))
-ax.set_ylabel('Frequency')
-ax.set_title('Common Word Frequencies Across Subreddits')
-plt.xticks(rotation=45)
-plt.show()
-'''
