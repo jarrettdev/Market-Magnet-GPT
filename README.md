@@ -1,3 +1,5 @@
+![Flowchart](resources/flowchart.png)
+
 # GPT MarketMagnet 🧲
 
 GPT MarketMagnet is GPT powered program designed to help a wide range of users discover lucrative market opportunities! 🎯 By leveraging GPT and web scraping, it uncovers insights from Reddit and YouTube, helping users stay ahead of trends, validate ideas, and navigate niches with ease. 💡
