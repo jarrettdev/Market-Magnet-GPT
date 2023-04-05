@@ -63,7 +63,8 @@ def write_youtube_response(response, terms, subreddits, out_dir):
     subprocess.run(['python3', 'youtube_gpt.py'])
     print('Done with youtube title logic.')
 
-
+#sort_choices = ['relevance', 'top', 'new', 'comments', 'hot']
+#time_filter_choices = ['year', 'month', 'week', 'day', 'hour', 'all']
 sort_choices = ['relevance']
 time_filter_choices = ['year']
 # Set up NLTK
@@ -337,7 +338,6 @@ if __name__ == "__main__":
 
     openai.api_key = openai_api_key
     target_dirs = []
-    #Market research in the space of influencers collaborating, and also fitness influencers
     terms = ['idea validation', 'market research']
     subreddits = ['startups']
     dir_name = 'study_startups_research'

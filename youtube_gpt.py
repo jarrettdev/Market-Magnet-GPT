@@ -1,5 +1,4 @@
 import openai
-import os
 import subprocess
 
 # Configure OpenAI
@@ -46,7 +45,6 @@ def execute_youtube_scraper(query):
     command_string = f'xvfb-run -a node index.js "{query}"'
     #make sure the command string is file path safe
     command_string = command_string.replace('"', '').strip()
-    #if query begins with 1. or 2., etc, remove it
     print(f'Running YouTube Creator Finder for query: {query}')
     process = None
     try:
