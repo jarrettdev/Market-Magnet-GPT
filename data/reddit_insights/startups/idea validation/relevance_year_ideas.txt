@@ -1,0 +1,18 @@
+==================================================
+
+Subreddit: r/startups Term: idea validation
+
+Sort: relevance Time Filter: year
+
+==================================================
+
+1. Many startup founders are interested in having a roadmap or checklist to help them start their business.
+2. A lot of people are looking for guidance on how to validate their startup idea.
+3. Some people struggle with validating an idea before it's implemented and worry about big players replicating their idea.
+4. There are difficulties around validating a B2B startup idea due to data protection and encryption restrictions.
+5. Targeting and getting feedback from potential customers is a common challenge for idea validation.
+6. Some people are looking for content creators to help with user research for idea validation.
+7. The process for validating a complex idea can be overwhelming for some.
+8. Getting busy customers for idea validation can be a challenge.
+9. The use of an MVP to validate a product idea is a common strategy.
+10. Many people are interested in the early idea selection and validation process for startups.

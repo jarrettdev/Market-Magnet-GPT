@@ -1,0 +1,43 @@
+post_id,comment_id,author,created_utc,body,score
+u2pmuk,i4k6n1t,auspex,1649855112.0,"Start showing it to customers via sales
+Demos, get feedback, iterate. 
+
+When a customer says yes I’ll buy… spend the money and get GDPR and SOC 2 compliant.",3
+u2pmuk,i4lpvas,p13er,1649876911.0,Try [mockaroo](https://www.mockaroo.com/) if you need to create data for demo,3
+u2pmuk,i4k8i2q,QdevelopR,1649855974.0,"I unserstood the situation but i couldnt get the problem. Would u please explain the problem more clearly? 
+I understood your problem as; Your mvp can automate the data process its ok. But because of the GDPR you couldn’t reach or process their data right?",2
+u2pmuk,i4ki7gw,shaft_of_gold,1649860137.0,"When I go looking for specific software solutions for my business customers I always ask for a demo with dummy data so I can play with it and see how it works.
+
+After playing with demo data and being satisfied that the software does what it says it does, I then typically setup a test environment using my customers data so they can play with it (this test environment usually then hangs around so their employees can be trained on it)
+
+Most B2B niche solutions offer these kinds of options in my experience, so my recommendation is to grab a whole bunch of data and anonymize it and use that as your demo/MVP/sales tool",2
+u2pmuk,i4m3q7p,Reddit-1-account,1649882570.0,"I'm starting a legal tech company. You need to demo using a made up data set, or if you have first hand experience, use your own data.
+
+Once you've demonstrated value, you can do a 2 week free trial or something (basically process their data for free) and then go to something paid.",2
+u2pmuk,i4o7gzf,lez566,1649920016.0,PM me. I’ve built a solution for exactly this space and done what you’re trying to do.,1
+u2pmuk,i4k8hcy,TarisLoud,1649855965.0,"Hi, thanks for your reply.   
+
+
+This would generally be the way I'd be getting feedback, however 'what' to show is the issue. Its hard to show a data platform's capabilities without the data, if you get my drift.",1
+u2pmuk,i4p8l0o,TarisLoud,1649944539.0,Now that is a very good tool! Thanks for posting it!,1
+u2pmuk,i4k9o78,TarisLoud,1649856510.0,"The platform pulls data from customers other software. As I'm validating this MVP I need to show what it can do, which means I need the customers data to demonstrate its function. I'm approaching these customers and saying ""I've got a product that solve your data reporting, you just need to give me access to your data to show you how it works"".   
+
+
+The data is generally sensitive in nature, so you can see why they might be hesitant to hand over their API keys to a guy with just a landing page and product demo, right? That's the problem; if getting access to the data is a hurdle, how do I validate a data product with no data?",1
+u2pmuk,i4klzzg,TarisLoud,1649861630.0,Thanks for your reply! Using false data is sounding more and more like the way forward.,1
+u2pmuk,i4p7yqe,TarisLoud,1649944272.0,"The 2 weeks part is interesting, that's something I had considered. Thanks for the insight!",1
+u2pmuk,i4p8i9b,TarisLoud,1649944507.0,"Interested in your solution. Its a fairly generic problem and there's a lot of open source tools out there that does this exact thing, but always interested to see more tools that can achieve it.",1
+u2pmuk,i4k9175,auspex,1649856216.0,"Set up a demo system that integrates with your own instances of whatever.
+
+Spend a few days generating fake but “reasonable” looking data. 
+
+You just need enough so it looks populated and people can mentally overlay their data onto what you’re showing.",2
+u2pmuk,i4kn99b,shaft_of_gold,1649862129.0,"No problems!
+
+If it was me, I would take a ""vertical slice"" and have comprehensive dummy data for a few things (eg 10ish fake users with full history / all possible data points filled out on whatever it is the data dump should be mimicking). 
+
+Oh also when I'm testing things, I click and fiddle with every slider, checkbox, text field, minimise and print button there is on the screen!",1
+u2pmuk,i4k9zq1,TarisLoud,1649856656.0,"That's what I'm thinking is the alternative. Thanks for the insight!  
+
+
+Also SOC 2 looks interesting, I'm very familiar with GDPR but SOC 2 looks like a decent accreditation outside of cyber essentials in the UK.",1

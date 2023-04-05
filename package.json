@@ -1,0 +1,30 @@
+{
+    "name": "youtube-indexer",
+    "version": "1.0.0",
+    "description": "**Features**   * Index video details like title, duration and view count * Detect changes in any of the above * Detect removal/unlisting of videos * Saves changelog of changes as well as all videos in json or sqlite(default) format * Requires no API key * Privacy-friendly; transmits as little as possible * Light and fast",
+    "main": "index.js",
+    "directories": {
+      "test": "test"
+    },
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/Xosrov/YouTube-Indexer.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/Xosrov/YouTube-Indexer/issues"
+    },
+    "homepage": "https://github.com/Xosrov/YouTube-Indexer#readme",
+    "dependencies": {
+      "puppeteer": "^13.1.3",
+      "puppeteer-extra": "^3.2.3",
+      "puppeteer-extra-plugin-adblocker": "^2.12.0",
+      "puppeteer-extra-plugin-stealth": "^2.9.0"
+    }
+  }
+  
