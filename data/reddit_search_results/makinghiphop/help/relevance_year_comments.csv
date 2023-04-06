@@ -1,0 +1,173 @@
+post_id,comment_id,author,created_utc,body,score
+10ir3z5,j5fzjgp,ZumasRevenge,1674414760.0,"When it comes to finding the key of the sample and finding a bassline, I usually like to play it with my midi keyboard. You gotta play around and just keep it simple. Don’t overstretch your mind on it. And if you can’t find it, open up another idea. Me personally I can’t stay stuck on 1 idea for more over 20 min. Try working on it another day.",36
+10ir3z5,j5gcaz2,Tertzug,1674419701.0,"Bb is not b, its b flat.",31
+10ir3z5,j5g6r1b,Hi-Rezplz,1674417601.0,"Few ways to go about it:Low pass sample to hear the bass notes better > copy notes in MIDI > high pass sample
+
+High pass sample > find root note > play and find minor/major scale of said note
+
+High pass sample to mute bass > lay own bass
+
+Most important thing here is to develop your ear to recognize the (root) note(s) in the sample, which takes practice. Shortcuts such as pitch detection software can work, but like you said it looks goofy and in the \~10% they detect the wrong key you're lost
+
+TL;DR: Either accept looking goofy/pitch detection not being able to save you 10% of times or practice (loads)",18
+10ir3z5,j5hlv2m,MexicansInParis,1674437732.0,"Learn an instrument, train your ears.
+
+Also, there’s a great site for finding the scale of a song, it’s called Tunebat.",12
+10ir3z5,j5g036r,judohampe,1674414973.0,"I understand the frustration ! But if you mute everything except the sample and maybe use some eq to remove disturbing frequencies. then take a simple sound in your daw, like piano and play with the sample. when you hear that it sounds right, you check which note it is. and work from there. That's pretty much how I do it. There are certainly much better ways.",10
+10ir3z5,j5if8wp,milopkl,1674451774.0,"dudes will do absolutely everything in their power - take tutorials, pray to gods, align their crystals - anything and everything except learning music theory or an instrument. i have no sympathy",8
+10ir3z5,j5hnt3d,rippingdrumkits,1674438560.0,"you don‘t need any of that (tuning the 808 can help but isn‘t mandatory), pitching up the 808 is enough, then listen (!) to what sounds good. DM me if you need more help - this should be a very easy problem to solve.",4
+10ir3z5,j5fz3ft,RADIOKILLAHRAZE,1674414587.0,They got spectrum analyzer vst program in FL Studio that lets you see all the notes playing in a audio file from the frequency numbers that'll help you with finding the root notes to lay your bass.,4
+10ir3z5,j5j0jvh,blaisejames88,1674468084.0,"I just use a midi keyboard to play notes until I find what sounds good. I have 0% musical theory. I just play what bass notes sound good to the ear. 
+
+The fact that you can hear that it sounds
+bad means that you should be able to hear what sounds good. 
+
+If the musical theory side is not working for you, just grab a keyboard and play some notes until you find what sounds good to you.",5
+10ir3z5,j5k85h9,bleakneon,1674491577.0,"I'll be honest, reading your replies sounds like you have watched too many tutorials and got conflicting advice from them, or not fully understood them.
+
+First off check when you play a C on your keyboard that your 808 plays a C, if you play a D make the 808 is playing a D.
+
+When you say you have the key from melodyne, that is only step 1.  The bass should be related to the notes that are playing when the bass hits.  This is something you could learn from theory, but really you should probably do a bit of trial and error and see what works, if it sounds bad, it is bad.  
+
+
+Also consider that anything that is telling you the key of a sample could be wrong.
+
+&#x200B;
+
+Here is what I would suggest, not going to get you great tracks, but just get you heading in the right direction.  Using a piano make a simple chord sequence, A minor, C major, F major, G major.  Throw whatever drums on it.  This sequence is could be in C major, or A minor.  Try playing a bassline with just As, try with just Cs.  Really think about how the As and Cs sound under each chord.  Then try with different notes, As under the Aminor, Cs under the Cmajor, Fs under the Fmajor, Gs under the Gmajor.  How does this sound?  Maybe try combining the two, so if you thought the A also sounded good under the Fmajor, and the C sounded good under the Gmajor, try throwing a few of them in.  Then you can start getting wild with any notes from the scale.  Then if you really want to go crazy you can try notes from outside the scale...but this will be getting very weird for bass lines...As I said, this isn't really to get a great beat, just to get you experimenting with things rather than, as you said ""following all the directions"".",5
+10ir3z5,j5g9upe,piwrecks710,1674418798.0,I normally just google the key of the song I’m sampling. For basslines or 808s specifically I play them two octaves up to hear the notes better to make sure they sound in key then octave them back down. If it sounds good it is good.,6
+10ir3z5,j5jxjkr,GlowSonic,1674487412.0,"Not trying to be an ass, but use your ears. Seems like you’re lacking musicality. Depending on software is cool until it doesn’t work.",3
+10ir3z5,j5hdl1j,jenkumboofer,1674434296.0,"dude just learn scales & play them until you find the matching one
+
+all the plugins in the world won’t help if you can’t develop some musical knowledge on your own. This is easily what I hate the most about modern production; dudes find a sample from a pack and just layer an out of time 808 & drums and call it a day and it’s so lame",3
+10ir3z5,j5g89g0,Ghoulius-Caesar,1674418187.0,"What program do you use as your DAW? I use FL Studio and you can use the default plugin WaveCandy on the master track to analyze the spectrum of everything that is playing. There’s a preset called Spectrum or something along those lines that has the keyboard on the left and the spectrum will play through, so you can match the key to whatever is playing at that time. You can also use Parametric EQ to find the wavelength, but will have to convert Hz to the right note.",2
+10ir3z5,j5gnamo,ER301,1674423832.0,"If they’re important to you, Basslines take time. There’s no fast way to write a great bassline. You just have to keep at it, and try out a lot of different ideas, until you find it. You can write a mediocre bassline pretty easily, but anything great takes time. Keep at it. Eventually you’ll figure out what works for you.",2
+10ir3z5,j5has64,lucasbin_,1674433143.0,"well, since you're already spending money on this, maybe you could get a few piano lessons.
+
+If you find a good teacher that understands what you need I bet you could get over this forever in like 1 to 3 months",2
+10ir3z5,j5hl97r,DjayCas,1674437473.0,uhhh dm me a couple i'll help.,2
+10ir3z5,j5iyivh,digitaldisgust,1674466330.0,"Getting depressed over this when its truly not that serious...can't you just google the sample to see what comes up on Tunebat or any site that has the key?
+
+I'm not understanding the dilemma.",2
+10ir3z5,j5jt517,RydryBeats,1674485569.0,"Just keep practicing and train your ears it will come to you. Put your bass notes up an octave or two as well and you might find it a little easier. Seems like you use fl could be wrong. But ableton has a feature where you can put the melody into notes and find it a little easier, it’s not always right, but it tends to help. You can also play along on piano and try to find the bass notes that way. Don’t give up!",2
+10ir3z5,j5nq3fu,numaru1989,1674547985.0,"Use your ears. Bass is the easiest thing to hear clashing in, Just listen for dissonance. or feel it on a speaker with ur hands Different Note Distances has more dissonance.",2
+10ir3z5,j5hpsk9,RandPaulLawnmower,1674439400.0,"I learned bass guitar to make my own and I now understand the whole theory and philosophy of the low end much better. May be worth investing, has really helped me expand my experimentation musically",1
+10ir3z5,j5ijnoj,twistedfantasy15,1674454633.0,You gotta consume some marjuana,0
+10ir3z5,j5ixxyg,Dan_From_Japan,1674465821.0,Maybe the sample isn't tuned to 440hz? If you're getting so frustrated that you're smashing shit bruh it's time to take a break.,0
+10ir3z5,j5m3a5e,,1674517104.0,I’m sorry but you just shouldn’t be making that type of music is you can’t lay down the bassline in a sample. You either have the ear to do that or you don’t. There’s no inbetweens and I promise your not gonna get any better making paragraph posts on here about it.,0
+10ir3z5,j5ge0z4,theHammr,1674420347.0,"make sure the sample is unchanged in speed or pitch before you lay the bass. take a version and eq out the bass, and make a copy layer with ONLY the bass eq-ed in.
+
+Now using the high bass version, copy that out using a midi keyboard and your own bass, it's much easier since the bass is more obvious / isolated.
+
+You can now play that with the first no-bass eq version of the sample to see if it fits. Then when its all done just make sure to render out the bass, and if you change the speed or pitch of the sample do the same to your bass! If you dont the bass will not match the sample, itll be out of time / tune.",1
+10ir3z5,j5gjj45,RomTheRapper,1674422397.0,Are you laying the bass line with the whole chord or are you using just the root note? Bbm vs Bb?,1
+10ir3z5,j5gl0o3,fuzzyreality2018,1674422961.0,"get your sample thru a low pass filter and record it on edison. Then usa Convert audio to midi and dump in piano roll. usually it gives you some midi notes notes, try to find the ones that sounds good and erase all the other ones.",1
+10ir3z5,j5gnmai,jadostyles,1674423957.0,Do you use one shot bass? Or vst,1
+10ir3z5,j5gqymd,erikkfc11,1674425261.0,"Isnt Bb minor a#, Wavecandy is good for finding bass notes too if the sample has lowend",1
+10ir3z5,j5gtdbo,One_Obligation9324,1674426175.0,"I usually play the instrumentals myself, so I'm not quite sure about all the electronic stuff. I just play the guitar and I make the speed 0.5x. I don't have a bunch of money, just a piano, a guitar and an iPhone.
+
+You could take one of the online guitar simulators, make a melody, record it, and slow it down to half the speed. There's your bassline.",1
+10ir3z5,j5h3aby,jumbomills87,1674430016.0,"I’m fairly amateur ,and haven’t been making beats that long and know next to nothing about music theory but I use Serato sample and change the key of my bass sample to whatever my main sample is and this generally sounds alright to me. 
+
+Anyone feel free to correct me if this is not a good thing to do",1
+10ir3z5,j5h5dx8,_Discokid_,1674430891.0,"Auto-Key by Antares is fairly decent for telling you the key. It tells you the major and relative minor key so you can try both. It’s a phone app, definitely iOS , maybe android too",1
+10ir3z5,j5hdgc4,amidaos,1674434242.0,"Some tracks are sped up or slowed down in post-production before release. This can leave the part you are trying to sample slightly out of tune (but in the context of the original track it works completely fine). 
+
+Try selecting a root note on the bass and adjusting the sample's pitch by cents instead of semitones until it matches.",1
+10ir3z5,j5i6j3h,mrcomputer8974,1674446934.0,"cut out the highs, run through edison, detect pitch samples",1
+10ir3z5,j5ia8pt,lildalmatian,1674448870.0,Use a multipressor to compress the low end of your sample…sounds great and there is no 808 needed. If you still want to add 808 you will be able to better pick out the appropriate notes by compressing the low end,1
+10ir3z5,j5ifias,RicardoRedd1,1674451936.0,I like to play it by ear. I usually tune up or down and eventually I’ll find the key.,1
+10ir3z5,j5ik51d,antivn,1674454955.0,"Are you trying to find the scale of a sample? I just use Serrato sample to tell me. I’m pretty sure it’s accurate.
+
+Unless there’s chords in it. Then I drag it I to a midi track and it turns it into midi notes and because I’m usually too lazy to do the math in my head I have midi effects that tell me what scale the chords are in.",1
+10ir3z5,j5iyk7w,digitaldisgust,1674466363.0,"Breaking a computer over this is unhinged asf. Take a break, OP.",1
+10ir3z5,j5iyxgw,TrendKillerBeats,1674466683.0,Best method write  tour bass octave or two up then when you ready hit -12 on it and you’re good to go…then can go back to zero make adjustments if needed,1
+10ir3z5,j5j9p0m,tony_stump,1674475283.0,"I used to use only 808 and bass one shots for bass lines, finally got a bass plug-in and found the ability to control all these different parameters very helpful when getting a bass to sit right with the other sounds. I'd look around for something with a demo, see what you like and if it helps at all. I was always bummed when I had a bassline that should work but sounded off, since I've been messing around with this bass plug-in I find I can get the bass to sit how I like.",1
+10ir3z5,j5jd5dg,potatohakker,1674477521.0,"for one Bb minor doesn’t really exist in fl but you can kinda work with A# minor instead.
+other than that i’d just low pass the sample (or don’t if it’s bassy enough) and open it in fl studios pitch detector to see the bass notes. in the sampler you can just right click on the waveform and click “open in pitch detector”",1
+10ir3z5,j5jgil6,PoignantPoetry,1674479486.0,"Bro, if you invested in Melodyne which has polyphonic and monophonic detection and can’t find the sample’s root note to make a bassline, you should re-examine the tools you have.
+
+Though, try playing yourself on MIDI some very high notes while listening to the sample play, you’ll hear something that sounds right at home and that’s the root.",1
+10ir3z5,j5jikh8,impatientZebra,1674480598.0,"Off-topic, but whenever someone is asking ""It it really worth it to learn music theory?"" I'm going to point them to this post.",1
+10ir3z5,j5joqb8,,1674483611.0,I just can’t get the bass to not sound like shit. I follow all these tutorials on processing/pitch bend and I can never get the same results. It’s so annoying,1
+10ir3z5,j5jr63u,sir_f4rt_a_l0t,1674484704.0,"First off you need to find the key of the sample, then use this function to play your bassline:
+
+https://www.reddit.com/r/FL_Studio/comments/e2gxce/how_to_use_fl_studios_typing_keyboard_layouts_to/?utm_source=share&utm_medium=ios_app&utm_name=iossmf",1
+10ir3z5,j5k3cxv,bresk13,1674489719.0,Sometime it's easier to manually match notes with a piano sound instead of a bass one.,1
+10ir3z5,j5km0mr,chewbacca_the_cuz,1674496770.0,"Sounds like you've either changed the pitch somewhere. Or used a different bmp which can alter the chord??
+I really don't quite get what you're saying but could definitely help you. Haven't come across a problem that I couldn't solve yet. Making Music should never be frustrating",1
+10ir3z5,j5l5ywd,thesingingaccountant,1674504235.0,"I think software is useful up to a point but the best tool is your ears, you have a good start because you can tell what you're currently playing isn't sounding good. So you change key or just play random notes until you hit on something that does sound good - like others have said music isn't something that vsts can just do for you - it may take ages and may never happen on a certain beat, it's not like fixing a toilet you can't learn exactly how to do it. 
+
+That said you can definitely improve, get yourself a bass guitar or make sure you learn all your bass scales, study the bass on different records in a wide range of music. Great producers have been working at it for years, learning often by trial and error",1
+10ir3z5,j5lsprd,DJSexualChocolate,1674512802.0,"You can also just Google the song and key/tab...
+Another trick a lot of people don't know, but the song may register as one key but it sits in a mode, typically the relative major/minor in aeolian. So Bb minor would also be C# major.",1
+10ir3z5,j5oswsv,itsaboutangles,1674572772.0,Aye bruh just click notes util it sounds good. If that doesnt work then the sample must not fit. Pick a new sample,1
+10ir3z5,j5wd738,Weinee,1674693980.0,Learning to play an instrument would help a lot.,1
+10ir3z5,j5xkzcj,,1674715048.0,[removed],1
+10ir3z5,j5y834u,Bk_Dymond,1674733361.0,"Um Bb is B flat major. I did that before. Lol.
+Relax.",1
+10ir3z5,j9fknp9,oregonduck16,1676994632.0,"Late to the discussion, but you also need to make sure that your sample is actually in a standard key and that you haven’t stretched into some microtonal key. If you stretch the sample then the pitch changes, so make sure you stretch it by pitch/semitone, not just by percentage or to match a bpm. If you just snap an 80bpm sample to fit your 90bpm drum loop, the sample is not going to be in a key that you can’t play on a keyboard or bass guitar.",1
+10ir3z5,j5g12oi,christopherTraps88,1674415363.0,"What's wild is, I usually do that, and a majority of the time it's a hit or miss. Melodyne has been my go to recently, but pulling out a vst everytime I have to lay bass is tedious,what imma do when I'm in the studio and have to push  beats out for a rapper, it's embarrassing. I just wish there was a easier way",6
+10ir3z5,j5gz47o,winter_whale,1674428346.0,Unless you’re in Germany!,11
+10ir3z5,j5jrr3g,Hi-Rezplz,1674484963.0,"This, failing once > 'depression' is pretty telling of someones attitude haha",3
+10ir3z5,j5i0zbr,Dubslack,1674444219.0,"The 808 should always be tuned, it doesn't help if you're trying to sound a C2 but you need to hit F#2 to do so.",3
+10ir3z5,j5g0sf2,christopherTraps88,1674415251.0,When I'm laying down the bassline is it necessary to change the scale highlighting? Or is it OK to keep it in the original scale that I work with(which is usually c sharp),1
+10ir3z5,j5k4e0t,christopherTraps88,1674490125.0,"I understand, I'll try. Thank you.",4
+10ir3z5,j5g9g3i,christopherTraps88,1674418644.0,"I use FL, imma try that out tonight, I saw someone on YT mention that plugin as well. It seems to be alot of ppl go to when trying to find notes to hit, it does look promising. I hope it can help me.",3
+10ir3z5,j5izn2m,christopherTraps88,1674467301.0,"I can find the key easily with serato sample..its the root note that gets me, I hope I'm not making it more difficult than it already is.",0
+10ir3z5,j5k4b3z,christopherTraps88,1674490093.0,"Thank you fam, I appreciate it. I'm definitely going to train my ears as well. I think that'll probably be more beneficial in the long seeing as it could be a time when I can't depend on a vst, I don't want to be stuck outchea.",2
+10ir3z5,j5kihf3,JahanBaxterYT,1674495467.0,I prefer injecting it,1
+10ir3z5,j5izkf3,christopherTraps88,1674467237.0,"You know what's odd? I changed my bit rate to 48000 because serato started doing this odd thing where when I countdown to lay down my notes,it would lag at 440hz..then when I changed it to 48000 it seemed to fix the issue.",1
+10ir3z5,j5meq4v,christopherTraps88,1674522012.0,Ok,1
+10ir3z5,j5o7f4j,WredditSmark,1674562028.0,"This is garbage advice, learning bass lines isn’t some “you’re either born with it or you’re not”.",1
+10ir3z5,j5hzzml,christopherTraps88,1674443754.0,"Kinda like the low-end theory, right? I've done that with tracks that I didn't want to tamper with the bass, kinda sounded perfect already, for example, Mister Mellow sounds ill af with its own bassline, so I made a layer like you said and put it under my pitched sample with the low end edited.",2
+10ir3z5,j5gjpsi,christopherTraps88,1674422464.0,Root note,1
+10ir3z5,j5i05wz,christopherTraps88,1674443835.0,One shots,1
+10ir3z5,j5imdbd,christopherTraps88,1674456527.0,"No, I need to find the root note of the sample, so I'll know where to lay my own bassline. I usually use melodyne to help me out but yesterday was the worst, melodyne told me my sample was in b minor...I change my scale highlights...tune my 808 to b minor..and it sounded horrible. I think I might need to make a video to show what actually happened.",1
+10ir3z5,j5g1k3m,ZumasRevenge,1674415554.0,"Nothing is embarrassing when your creating G. We all have beat blocks. We all go thru this. OH and btw, I don’t know if you play the bass lines like how I do but I like to play the bass notes on a higher octave just to get a clear pattern. Once you have that down, bring that bby down an octave and see how that fits in the mix.",14
+10ir3z5,j5i02fj,SaifNSound,1674443789.0,Make your 808s and then tune the sample to the 808 pattern. This is what Dhill used to do. RIP,2
+10ir3z5,j5g56yz,WH1TE-W0LF,1674416992.0,You're in the studio with rappers and can't lay down a bassine by ear? That IS embarrassing,-17
+10ir3z5,j5hd9eg,wunderkill,1674434160.0,Where is H on the keyboard?,3
+10ir3z5,j5io3un,rippingdrumkits,1674457813.0,"obviously if you’re trying to get to the right key purely off of music theory you need to tune the 808, i’m saying if you‘re punching in so something by ear you technically don’t have to",1
+10ir3z5,j5hul1u,PericlodGD,1674441417.0,if you’re using samples that aren’t in c# and writing everything else in c# then of course it’s gonna be out of key,6
+10ir3z5,j5g1b9z,RADIOKILLAHRAZE,1674415456.0,"I would imagine you would keep it in the original key, you can toggle black & white notes yourself if you know what you're doing",1
+10ir3z5,j5m7lp5,GlowSonic,1674518925.0,Best of luck to you man 💯,2
+10ir3z5,j5gkpe3,Ghoulius-Caesar,1674422844.0,"Cheers, I have FL Studio open right now and I’m deconstructing a song I like so here’s a more detailed tutorial:
+- On the mixer track that the sample is playing (or the master channel), add “Wave Candy” to an open spot
+- In Wave Candy on the bottom tabs, click “Spectrum” 
+- Crank the knob called “Scale” to the max value
+- Make the Wave Candy window larger by dragging the window lower down. After doing so the keys should appear on the left side. 
+- Change the “Max res” setting to 8192 bands to smooth out the notes 
+- Turn the “Input” Gain to max, enable Blur behind, and play around with the color settings (I like green notes) 
+- Save the preset so you can use it whenever. I have a preset called “Cyber Spectrum” that looks all Matrix style that I open up every-time I want to figure out the notes in a song",6
+10ir3z5,j5j566o,digitaldisgust,1674471956.0,I mean youre out here breaking computers over this. Get a grip and take a break you clearly need one. Thats not normal behaviour lmao,1
+10ir3z5,j5k4nnl,RydryBeats,1674490229.0,"Hell yeah keep grinding man! Do anything you can to help yourself. It can be frustrating if you’ve never played an instrument, I was there too. But I know your ears will get used to the sounds and it’ll click before you know it.",1
+10ir3z5,j5ohj9f,,1674567746.0,Your putting words in my mouth buddy lmao,1
+10ir3z5,j5pafyu,theHammr,1674579523.0,"yeah thats a cool method too. I usually like programming in my own bass so i can have a lot of control over it. I tend to manipulate my original sample a lot so ive found my method very useful for that sort of thing.
+
+In any case if you separate the bass you can use a compressor for ducking etc. so its pretty handy",1
+10ir3z5,j5h9i5a,bwons,1674432597.0,"✓ If it's a minor chord (or a chord with any flair to it)  then you will stay lost looking for a single root note. 
+Try looking for a tutorial of someone covering the bass if the sample is from a popular track, and then try transposing from the actually bass frets to keys. If all else fails, run it through an mp3-midi program, and try to figure out which patterns align with what you're looking to recreate. Theory theory theory. I would look up some of Wooten's videos on theory if you have problems picking up key by ear.",1
+10ir3z5,j5it25y,jadostyles,1674461706.0,a lot of the one shot basses tend to be out of tune. check if its in C in the first place or not,1
+10ir3z5,j5mph3i,_pioneer11,1674526721.0,"Hey dude, bass player for 20 years here. The root note of a sample won’t always be the same as the key it’s in. Like if the key is Bb minor, your sample could be using a different note in the key of Bb minor. C# major is the same key as Bb minor, so you could start with that note and see how it sounds. I would also try Eb or F.",1
+10ir3z5,j5g2za5,christopherTraps88,1674416121.0,"What's wild is, I use to do that lol and it worked more often than usual, I don't know what I thought there'd be a easier way. I use to just hit higher octave keys and then hit shift to transpose. Then I'd see ppl on yt just play around on the keys until something sounded good and ran with it",0
+10ir3z5,j5g62q1,christopherTraps88,1674417336.0,"Whenever it ever gets to that point, that's why I want to be prepared now...you should've paid more attention to what I typed.. you thought you ate, by saying that? Be alil bit more respectful g",9
+10ir3z5,j5hfkx2,winter_whale,1674435116.0,Between B and C unless I’m remembering it backwards,1
+10ir3z5,j5hnxeo,rippingdrumkits,1674438612.0,"it’s the english B, and B is ""H flat""",1
+10ir3z5,j5i2xhc,christopherTraps88,1674445149.0,"So say I run a sample through serato sample, pitch it up, and it changes it to b minor, in theory, I'd have to change my scale highlighting and essentially re-tune the 808 I'm going to use into the scale of b minor correct?",1
+10ir3z5,j5mere9,christopherTraps88,1674522027.0,💯,2
+10ir3z5,j5hzopw,christopherTraps88,1674443614.0,"Thank you so much fam, when I get off work, I'm definitely going to try what you said. I have faith that it'll produce something of good quality, quick question on the piano roll, is there a particular scale highlight I can apply that will show all the notes, as opposed to me trying line them up with wave candy. For example on my piano roll, mines is set to c# all black notes, where as on some tutorials I've seen ppl have their piano roll labeled with c5,c6,a5,f#, etc(you get what I'm saying?)",1
+10ir3z5,j5jmo9c,christopherTraps88,1674482651.0,I take my music seriously...I'm very passionate about this.,-2
+10ir3z5,j5k65zx,christopherTraps88,1674490818.0,"Most def. I picked this up as a hobby during the pandemic and fell in love, I'm still working through the FL studio mechanics and this whole music theory concept as well. Once I get it down to a science. I'll be in my zone.",3
+10ir3z5,j5ojkal,WredditSmark,1674568707.0,">you either have the ear to do that or you don’t
+
+It’s literally the first thing you said 🤣",1
+10ir3z5,j5izerw,christopherTraps88,1674467102.0,The one shots I have are all tuned to C.,1
+10ir3z5,j5g6sxc,WH1TE-W0LF,1674417621.0,Just go through the entire octave slamming the same key for like 30 seconds at a time until one sounds like it fits and go from there.,10
+10ir3z5,j5ij2ai,kayc_frl,1674454228.0,"If you change your sample to B minor, then yes, you need to be playing additional instruments in B minor.",2
+10ir3z5,j5khpeu,PericlodGD,1674495176.0,just play notes in bb minor with the 808 if it’s already tuned to c,1
+10ir3z5,j5jroac,Hi-Rezplz,1674484929.0,So basically you don't want to learn you're just looking for better shortcuts? :),1
+10ir3z5,j5k59x3,digitaldisgust,1674490470.0,And that warrants breaking your computer like a lunatic?,2
+10ir3z5,j5k42xa,christopherTraps88,1674490004.0,Yea,1
+10ir3z5,j5k5uso,christopherTraps88,1674490698.0,Don't judge me.,0
+10ir3z5,j5ng6kk,digitaldisgust,1674540568.0,Youre the one who randomly put it out there on Reddit in the sub. Take a break bc thats not normal.,0

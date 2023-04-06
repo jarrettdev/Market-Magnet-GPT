@@ -1,0 +1,559 @@
+post_id,comment_id,author,created_utc,body,score
+zcwlca,iyyts0a,willhamlink,1670215575.0,As someone who is a huge FL Studio fan I'd still say do another DAW. FL is great for beatmaking and MIDI work but it's not the greatest for recording live audio.,182
+zcwlca,iyz4u0d,ZSymphonia,1670222918.0,"Reaper can be pretty overwhelming at first due to the insane amount of features and buttons it has, but honestly, most of those features aren't necessary for just recording audio, mixing and mastering it. Reaper can also be tried with all of its features for quite a long time (it's like WinRAR where it'll prompt you to pay every time you start it, but also won't force you) and I've heard from other people who have used FL Studio that recording many takes and comping them (choosing the best parts of each take to create a single track) is much easier in Reaper.
+
+With that said, by watching this playlist of videos: https://youtube.com/playlist?list=PLM0xHqxaiT6-plorG47t3balft4nVki39 you're more than ready to tackle Reaper after messing around with it for a bit!",38
+zcwlca,iyz9bd9,thevoxpop,1670226530.0,"I'm surprised no one has mentioned cubase. I use both Ableton and cubase but for more singer songwriter stuff I think    cubase excels in numerous ways, Specifically with the mixer (VCA tracks, snapshots etc.). Cubase also has a great built in vocal tuner called variaudio that works similarly to melodyne.",29
+zcwlca,iyytbx0,ainjel,1670215317.0,Singer songwriter? Go with Logic. Just my experience working with a lot of different types of artists.,68
+zcwlca,iyyv7lf,Chemical_Ad_106,1670216418.0,"I use Ableton for recording acoustic music, and I would suggest that too! It was my first DAW, and it was pretty easy to understand and learn how to use it in the beginning. And like others have said, it’s great for recording. Good luck!",64
+zcwlca,iyzguqb,Lizard,1670233352.0,"All of the people who are commenting Ableton Live are discounting that it's a) absolutely targeted towards a different use case (i.e., making electronic beats) and b) very expensive for what she actually needs.
+
+OP, just use Cakewalk. It's completely free, more than capable for what you told us about your wife's use case, and much more beginner-friendly than Reaper. I know that we mostly assume that spending more money will yield better results, but it's really not true in this case.",38
+zcwlca,iyyuuvm,BeatAcrobatic1969,1670216205.0,"I don’t have anything practical to add, but I hope she loves it. You sounds like an amazing spouse.",27
+zcwlca,iyyvinq,Pork_Chop_Expresss,1670216604.0,"I love Reaper. It’s not my first DAW, I dabbled in PT LE for a it but it was extremely unintuitive for me. Reaper is great for recording audio, is practically free, $60 for the license when I got it years ago, and it includes some very useful plugins. The online community is great as well. Easy to use and when you run into a roadblock there’s tons of video tutorials to get you through",28
+zcwlca,iyyz5o7,rasputins_cake,1670218923.0,"I personally use Studio One. To me it’s really intuitive, and almost everything in it is drag and drop. Applying plugins to tracks is super simple, and recording audio into it is super easy.",24
+zcwlca,iyz2gqd,60five,1670221190.0,"Get Logic or Studio One for recording. FL is my main DAW and I use S1 for recording & mixing.
+
+Edit: Just saw in the comments that yall are using PC, definitely get Studio One!",9
+zcwlca,iyysudz,domejunky,1670215041.0,"I'd have suggested any DAW but FL Studio. It sounds like she is going to be recording acoustic instruments a fair amount - FL Studio has quite a convoluted way of recording audio. See if she can get on with Reaper, you could even try Cakewalk (free)",30
+zcwlca,iyznrly,ExtraDistressrial,1670239455.0,"If you have a Mac I think Garage Band is the way to go to begin with and if she really connects with it, take the next step into Logic. It’s just so easy to use.",9
+zcwlca,iyz5uh6,D1rtyH1ppy,1670223688.0,"To plug in a mic and other 1/4 plugs to a laptop, you'll want to get an audio interface. Something like the Scarlet 2i2 would get her up and running pretty quick.
+
+As far as the DAW, if you have a Mac, Garage Band is free and will be more than enough to get going. The paid version is called Logic.",7
+zcwlca,iyzlo2g,eXitse7en,1670237707.0,"Everyone is going to recommend the DAW that they personally use and many of them will try to convince you that it's the best. The truth is that, for the most part, they can all do the same things. Some are just a bit more specialized in certain areas. But the preference ultimately comes down to your workflow and how well you can intuit functionality based on their design and whether you personally resonate with that.
+
+For these reasons, I would recommend Cakewalk. It is a full-featured DAW and is 100% free. You literally have nothing to lose.
+
+I've used FL, Cubase, Reaper, Studio One... Probably more that I'm forgetting at the moment. Anyway, I use Cakewalk now, because it can do everything that those can do and it's free.",11
+zcwlca,iz0808h,gsus_gon3r,1670251518.0,"You can always give Cakewalk a try, it’s been around for decades and has all the bells and whistles for the low price of free. It’s been my favorite for a while now.",6
+zcwlca,iyzsyi3,TheProffalken,1670243272.0,"TL;DR: Use Cakewalk by Bandlab - it's free and will do everything you need, and I say this as someone who just bought a MIDI controller but until now has been recording guitars and vocals without issue.
+
+Only thing I would advise is to get a decent audio interface.  This is something that will almost certainly start a holy war, but I love my Focusrite Scarlet Solo, and I can record via one microphone and one line-in at the same time which is perfect for my needs.  Larger versions with more inputs are available, but you may not need them.  I've included links in the stuff below.
+
+I've written up my setup at [https://www.reddit.com/r/musicproduction/comments/yvchi3/an\_attempt\_at\_a\_guide\_to\_getting\_started\_for\_as/](https://www.reddit.com/r/musicproduction/comments/yvchi3/an_attempt_at_a_guide_to_getting_started_for_as/) but here's the bulk of that post:  
+
+* [Cakewalk by Bandlab](https://www.bandlab.com/products/cakewalk) **FREE** \- it doesn't have some of the more advanced features of other DAWs, but it's free and it supports VST (Virtual Instruments) as well as MIDI controllers, and you can even add your tracks to videos via the basic video overlay stuff if that's your thing
+* [Spitfire Audio LABS](https://labs.spitfireaudio.com/) **FREE** \- A good number of excellent instruments that you can use with ***any*** DAW that supports VST Plugins (which is all of the good ones, free and commercial!)
+* [Spitfire Audio BBC Symphony Orchestra](https://www.spitfireaudio.com/bbc-symphony-orchestra-discover) **FREE** \- A complete Orchestra on your laptop, for free!
+* A MIDI Controller **£75 - £1,000's depending on which model you get** - A bit like a piano or keyboard, these allow you to both play notes into the computer and control the DAW.  I've agonised for a long time over this and this week finally purchased a [Launchkey Mini MK3](https://novationmusic.com/en/keys/launchkey-mini) because it's powerful enough for the basic work that I'm doing whilst also portable enough to throw into my laptop bag for travelling.  The AKAI MPK mini is also a good product, I'm just worried that the joy sticks will snap off in my rucksack! :D
+* Some kind of USB Audio Interface **£100 - £500 depending on model** - Soundcards in most laptops and PC's are rubbish and can't really do real-time audio, so this is where your Audio Interface comes in.  I've got a [Focusrite Scarlet Solo](https://focusrite.com/en/audio-interface/scarlett/scarlett-solo) which is more than enough for my needs.  I'm able to listen to everything I'm working on in my DAW and record both my voice and my guitar as well via the two inputs. (Cakewalk has some pretty decent guitar amp/fx sims in there for free as well, it really is a great tool even if it's looked down on by some!)
+* Headphones **FREE - £100's depending on model** - Mine came with the Focusrite Solo, asking which brand is best is akin to asking which football team you should support, but Sennheiser generally do well in most reviews if you can't get the headphone bundle.
+* Follow and watch most of [Guy Michaelmore's videos](https://www.youtube.com/c/ThinkSpaceEducation) on Youtube - his explanations ""just work"" for me, and it's far more fun than most other theory lessons I've had to sit through over the years!
+* Once you're happy with your ability, check out [Charles Cornell](https://www.youtube.com/c/CharlesCornellStudios) and [Anne-Kathrin Dern](https://www.youtube.com/c/AnneKathrinDernComposer) to expand your knowledge",10
+zcwlca,iyyu4sr,Solid_Recording_3601,1670215785.0,"As an instrumentalist who records direct into a DAW, I have found cakewalk to be more intuitive than Ableton. Audacity is also great for recording instruments intuitively. Ableton has some cool features for beat making, but cakewalk is easier for Intrumentalists",6
+zcwlca,iyz1h74,SwellJoe,1670220495.0,"FL Studio could do it, but it isn't optimized for recording live music, quite far from it. I only use it for loop-oriented beat making. Unless she's planning on making EDM/synthwave/hip hop/etc., FL Studio isn't the best choice. It's great for a beginner in those genres, though, as the Producer edition comes with a great set of instruments and effects out of the box. You can make music immediately with it...but, you're gonna have to work harder to get real live instruments into it.
+
+I use Reaper for recording real instruments, and I think it's marvelous. Very low resource usage, very high reliability, traditional recording studio workflow (which is a negative for some, but a positive for me), and has all the basics in terms of effects plugins included (but no instruments). And, only costs $60 for non-professional use, leaving a little money in your budget to pick up a VST or two (though nothing too expensive), if you did want some instruments. There are lots of very good free ones, though, too.
+
+Ableton is pricey, but well-regarded. People who don't like a traditional recording studio workflow may prefer it, though reportedly folks have put effort into making a Reaper skin/plugin that makes it behave more like Ableton, making it similarly suitable for live performance and loop-based composition.",5
+zcwlca,iyzet32,JoseMinges,1670231419.0,Noone else saying Cubase? Excellent MIDI implementation/management/editing with similarly good audio manipulation. This or Reaper would be my recommendation.,5
+zcwlca,iyzilkw,my_bad_self,1670234956.0,"REAPER (can be used unlimited for free) or Cakewalk (it's free) and spend the money on an audio interface, microphones and headphones.",6
+zcwlca,iz0iqgc,How_do_I_breathe,1670256167.0,As someone who has been producing electronic music on fl studio for the past 8-9 years.... get ableton. Way more accessible and way easier to create on,5
+zcwlca,iyz411b,Swimming-Jag-4111,1670222314.0,"I would suggest go for BANDLAB. Its completely free and online, no need of any installation on the computer. Also very user friendly for beginners with professional tools.",3
+zcwlca,iyz5n0j,,1670223529.0,"All DAWS do pretty much the same thing. I use FL Studio and never had a problem with anything. Which one has she mentioned in the past? Perhaps go with that one. I've recorded live music in FL Studio, honestly you just need to get the hang of it. Beat making is easier and more fun in FL Studio. She'll be able to record her voice and brass instruments in FL Studio. Other one I know is Pro Tools, that one is a little bit more industry standard.",4
+zcwlca,iyzgohh,wrightflyer1903,1670233185.0,"Have you considered getting her something more ""physical""? If she's going to use guitar/dulcimer/etc you might want to consider an audio interface which will be needed alongside the DAW anyway.",3
+zcwlca,iyzmeba,garygeeg,1670238335.0,"Which controller have you bought her? They usually come with a usable daw bundled (bitwig 8 track, Ableton lite etc)",4
+zcwlca,iyzno7f,Roydl,1670239380.0,Studio one! Im windows. Came from logic on mac and its a great daw,4
+zcwlca,iyztuu7,s-multicellular,1670243857.0,"Fl would be sufficient but not optimal. It is more optimal for electronic or loop based stuff. Seeing you’re on Windows, Reaper is a more traditional audio typical DAW. I also use Ableton and it does the loop based stuff and I think has some marginal advantages over FL, but Reaper for audio. Powerful and priced amazingly modestly for being fully featured.",4
+zcwlca,iyzxesm,bong-water,1670246047.0,"I use fl studio. I would not recommend it to your wife. It's great for edm and hip hop, not so much live recording. Ableton is the way to go in my opinion",5
+zcwlca,iz07lk4,mls111888,1670251327.0,Cakewalk by Bandlab.,4
+zcwlca,iz09mfm,SmilesDelarge,1670252258.0,"I use FLStudio, but for beats/hiphop/electronica; its amazing for those, but id go with Ableton or ProTools for her needs, dude.",5
+zcwlca,iz0gd5h,andreacaccese,1670255206.0,"If you're on a budget, try reaper! Really nice option for not a lot of money",3
+zcwlca,iz0ytsv,Line4music,1670262498.0,"Do another DAW, don't do FL for a beginner.
+
+&#x200B;
+
+Ableton or Logic, imo.",4
+zcwlca,iz138ep,Johnposco,1670264186.0,"Well I started like that a few years ago and I installed Cakewalk, which is free and i like it so much..",5
+zcwlca,iz2uhs0,slackinfux,1670290232.0,"If you're looking for something that's super cheap or free, check out Tracktion Waveform Free. It's pretty limitless for a free version of a DAW, but it doesn't come with a lot of plugins. Which isn't a big deal since there are plenty of good, free plugins out there. 
+
+If you're considering Ableton, but don't like the price, I'd suggest checking out Bitwig Studio, which has a very similar workflow to Ableton Live, but is quite a bit cheaper. 
+
+Both of these DAWs run on Windows, Mac and Linux.",4
+zcwlca,iyyu3zd,PureEntertainment900,1670215771.0,"Used FL for 10 years, ableton for 8. Don't go for FL.",7
+zcwlca,iyywz4j,dannydigtl,1670217511.0,"If she has a mac, Logic for sure.",6
+zcwlca,iyzpv4n,Teddy_Bones,1670241100.0,"I teach music production for a living, and my experience is that for her use, logic and studio one are the best alternatives. I saw that you are on windows so I'll skip logic. 
+
+Studio one has a good mix of beginner friendly and powerful. It also comes with a few virtual instruments so you can play around with different sounds. Solid choice. 
+
+Cubase is a solid daw as well. This is another good option. 
+
+Pro tools is my own personal preference, but I wouldn't recommend it to beginners. It's expensive and doesn't come with many instruments. It's really catered to  recording and mixing professionals and is really good at that. For producers starting out, you can get a flying start somewhere else. 
+
+Ableton live is a good daw, but since it has two modes, session and arrangement, it complicates things for beginners. Choose this only if you have a teacher or plan on reading up on how things are connected. This is a good alternative if she wants to do live dj sets or if she's planning on getting into sound art. 
+
+Reaper is really powerful, but it doesn't force you into a workflow, so it has a really steep learning curve. It also doesn't come with many instruments. I love reaper, but I wouldn't recommend it to my students. Beware that if reaper fans made as much music as they engaged in flame wars, it would be the industry standard. 
+
+FL is really good for pattern based beat making, but has a steep learning curve and is seriously behind the curve on recording. Wouldn't recommend it to your wife.
+
+Just my two cents. Hope it helps.",6
+zcwlca,iyyx0jb,Pr11mo,1670217536.0,"As someone who is in school for music composition and uses FL Studio for EDM production, go with something else. I love FL Studio for what I produce, but it sounds to me that Logic Pro would be a better fit for what she wants to do. Many of my classmates produce in Logic Pro and it seems to fit the singer/songwriter style the best",3
+zcwlca,iyz553j,Elzmyth,1670223148.0,"I also recommend Ableton. I regularly record acoustic and electric instruments in Ableton Suite through a Focusrite 2i4 and find its recording interface intuitive and easy to use. Likewise, the Lite version is a great way for your wife to see if the software is the right fit for her prior to committing to the purchase price of the fully featured version. Best wishes 🎵🙏",3
+zcwlca,iyz6iir,youshallhaveeverbeen,1670224213.0,Certainly Ableton. It's perfect for what she's trying to do. There's also a lot of tools available in Suite available to help with creativity and fleshing out full tracks. Not to say that other DAWs can't do that but Ableton is built for this.,3
+zcwlca,iyzxicl,,1670246104.0,"I’ve learned audition, GarageBand, Logic, and now Ableton. Ableton is my favorite, and I happen to be a woman who records live instruments and sings as well. 
+Truly any DAW will work for basic recording, so don’t get hung up on it if price is an issue. 
+But, Ableton is my favorite.",3
+zcwlca,iz00s2m,scabdul,1670247960.0,"my first DAW was audacity. 
+
+does stereo recordings at most, but over dubs are quite easy. it's free to install and use. it's very beginner friendly in my opinion... plus you can still use VSTs. lots of youtube tutorials to help get started too.
+
+i eventually went to reaper and am quite happy with it, especially with the price to functionality ratio it has.",3
+zcwlca,iz00z9g,_antic604,1670248067.0,"God, please no FL! Unless you want a divorce or something.
+
+Get her Studio One Artist - it's perfect balance between features & complexity for an artist who want to record, arrange and lightly process their music.",3
+zcwlca,iz064bp,Orio_n,1670250635.0,"Honestly your choice of DAW doesnt matter too much. Any of the standard ones are good. FL isnt *just* for beat making. And while recording is harder its not that bad. The main selling point for FL for me is the fact that you pay once and get updates forever unlike ableton, the larger userbase also makes it easier to learn FL.",3
+zcwlca,iz07g56,psychedelic-raven,1670251255.0,Studio One. They’ve made a huge effort to make it simple and easy to learn and get into. I find it the best and fastest to use to audio recording and traditional mixing. Their suite of plug-ins is great; you don’t need anything else. And they even have a dedicated mastering tool. Reaper is incredible and cheap (possibly free) but it is NOT easy to learn and get the most out of. I also use Ableton a lot but it’s also a unique approach that might not align with a non-technical musician who just wants to lay down audio.,3
+zcwlca,iz095t7,damn-joey,1670252048.0,"For the price, I recommend Studio One by Presonus. The UI has a Logic feel but works on Windows OS. It's pretty easy to use, and there's a lot of native support from Presonus. Trusted company in the audio space.
+
+If you are not worried about the price, I 100% recommend Ableton. It's far more powerful than Studio One, so she has the potential to grow her skillset more. A lot more people use Ableton, so you will have a ton of community support on top of their in-house resources.
+
+FL is a great DAW, but I do not think it fits her needs at all.
+
+Pro Tools has a greater learning curve than Studio One, and it costs more. However, it is a powerful DAW just like Ableton. Pro Tools is more geared to studio recording than Ableton.
+
+I hope this helps!",3
+zcwlca,iz0dvbi,Aridan,1670254147.0,"Garageband on Mac is the tits for people new to DAW. Garageband on iOS can also do the trick with an interface to get decent recordings.
+
+I recommend that over FL because I’ve used FL for years for working on electronic music and I still hate it. It’s great for what it does but damn is it needlessly confusing and enraging at first.",3
+zcwlca,iz0g1q2,IslamicCheese,1670255076.0,Cakewalk by BandLab is free and fully functional and fleshed out. Can be intimidating because of the features but there are tons of great YouTube resources available.,3
+zcwlca,iz0glmj,Denvermax31,1670255302.0,You can create a community college account fairly easy and use that to get a discount on abelton.,3
+zcwlca,iz0k4we,1mpatient,1670256753.0,"I am using Cubase, so I can only recommend it. I love the interface. Easy to learn too.",3
+zcwlca,iz0kjbg,scarybran,1670256912.0,"Ableton all the way. Its the best for recording, it's so versatile",3
+zcwlca,iz0qxku,TheQuantumToad,1670259468.0,Cakewalk is beginner friendly and free,3
+zcwlca,iz0qz88,GoDownSunshine,1670259487.0,Ableton intro,3
+zcwlca,iz0r6m5,EL-Rays,1670259569.0,Ableton live lite will do the job and you can get it for almost free.,3
+zcwlca,iz0ua9v,BassGuyAVL2,1670260789.0,"Your wife can cut her teeth on several free DAWs like Audacity, GarageBand or Bandlab Cakewalk. You might want to spring a little extra for a Scarlett i44. 
+
+Don't get the MPK mini. Get something with at least four octaves. I bought the Mini and I wish I had sprung for a few more bucks.
+
+Good luck to you both!",3
+zcwlca,iz16n7j,quietworlock22,1670265504.0,reaper is the best for value and features.,3
+zcwlca,iz16rjm,eseffbee,1670265550.0,"Appreciate you've come here for DAW advice, but judging from your description of your wife's needs I would say that the principal equipment you need to think about is a good quality mic setup and good quality headphones.
+
+Cheaping out on those thing complicates the DAW experience for newbies because they spend a lot of time trying to fix issues that should never have made it to the recording (noise, hiss, pops, poor/no stereo imaging, etc), or can't hear those issues in the case of headphones.
+
+I would suggest avoiding all mics and headphones priced under $100 because they are poor value. If you can afford it then something like the Rode NT1 condenser mic is a fantastic choice for your wife's situation and an item you'll possibly never need to replace. The last thing you want to do is spend a not-insignificant sum on a mic that you quickly find is not quite good enough.
+
+As someone who used Nero Soundtrax many years ago, I can say that practically any free DAW will serve the needs of someone doing simple (i.e. 1 or 2 input) live voice and instrument recording, which seems to be what your wife is interested in.
+
+People commonly underestimate the importance of learning sound engineering for live musicians - stuff like mic placement, movement around the mic, plus take comping, editing and mixing.
+
+DAWs with a huge amount of features may distract your wife from that primary task so beyond the capacity to use MIDI with a few decent (and free!) piano/organ VSTs, I wouldn't worry too much about the DAW.",3
+zcwlca,iyytjgo,Mysterious_Bad_4753,1670215437.0,"That's so awesome of you to support her passion in music! I play guitar, sing, and create my own music as well and I've been using FL studio for a few years now. Overall I think it's great, people complain that the recording aspect of it is a little disorganized (compared to other DAWs) I've gotten used to it tho and supposedly this will be improved on their newest update! Btw you get free updates for life with FL. The piano roll in FL is great and easy to create melodies. There is a learning curve to FL but that's with any DAW. There are plenty of super helpful YouTube tutorials to get you going. I've been pretty happy with it.
+
+Also, you'll need an audio interface in addition to FL studio so she can connect her mic, headphones, and instruments to. Not sure if you're aware. I use Scarlett focusrite and it's perfect.",5
+zcwlca,iyz3wbu,unclecoffo,1670222218.0,"I used to use Pro Tools LE and have now switched to Reaper. I would absolutely recommend Reaper for its stability, features, customisation, online tutorials, and price.",2
+zcwlca,iyz4aeg,pissadunto,1670222509.0,Logic is very user friendly. Much more user friendly than abelton,2
+zcwlca,iyz7m7d,solidshakego,1670225101.0,"FL studio is good, but for live music and recordings Ableton is easier to use and is just as good. FL studio, for me, is used best when making music with Midis and loops. 
+At the same time. FL studio is, also IMO. Fat better at mastering a track than Ableton
+
+Ableton has a 90 day full feature trial (requires internet connection) 
+
+FL studio is insanely cheaper and you only have to buy it once. Where Ableton you keep on spending forever. 
+
+So to summit up, you should give Ableton a shot, especially since she live records. It's easier to use 
+
+FL is ""better"" and cheaper. But for me, it's only ""better"" for certain genres. And is not that kind to live recordings unless it's midi input.",2
+zcwlca,iyz84xy,16thfloor,1670225533.0,"Id take a look at Logic Pro, its good when you’re mostly tracking stuff in",2
+zcwlca,iyz9nua,adish,1670226813.0,I love FL studio but for her needs I think studio one is a better choice,2
+zcwlca,iyzb7lp,,1670228146.0,"I know there are many for whom Ableton doesn't ""click"" but as a full fledged instrument and comprehensive environment for creating music I find it very powerful and very fun. Ableton Live Intro would have enough for her to start making her own music without being obviously limited, and it's on sale right now for only $79, and you can split it up into four months of financing for about $13.
+
+Once you have Intro, there are reduced price upgrades to the full standard Ableton or the Suite version with all the instruments. I would also recommend if she starts producing seriously/regularly but on a budget the Splice app because you can subscribe and buy sounds each month but also rent-to-own third party instruments and effects.
+
+This is an awesome gift idea and I'm sure she'll love it! There are tons of free tutorials and demonstrations of Ableton on YouTube.",2
+zcwlca,iyzeke3,pusangitimbc,1670231194.0,"I am using the subscription version of Studio One, just ensure to have a lot of free storage. Subscription cause if in case she doesn't want it, she can stop the subscription. 
+
+Standard DAWs will be Pro Tools and Logic and also being taught in classrooms and Linkedin Learnings.",2
+zcwlca,iyzfheg,m23574,1670232060.0,"Reaper is free unless you’re planning on releasing commercially or whatever it is, then you pay (from what I remember paying) 60 dollars",2
+zcwlca,iyzfzd6,DrPetersSon,1670232529.0,Buy her a controller with intro to live and a set of lessons on the internet ( there are many providers) see if she likes it then upgrade for to suit for cheaper .,2
+zcwlca,iyzj9ef,spHeir,1670235557.0,"I recommend abelton live, I’ve been using it for years now and the ui is very pleasing and it’s user friendly.",2
+zcwlca,iyzjatn,TheOtherHobbes,1670235592.0,"Whatever DAW you get you're also going to need an interface and a microphone. Or at least a USB microphone like the Blue Snowball Ice. Given the cost I'd probably go with the Ice ($50) and Cubase Elements ($100) or Presonus Studio One Artist ($100). On a PC, either will be better suited for recording/mixing than anything else in that price range. Add a MIDI keyboard and that's enough to get started with recording and mixing live playing and virtual synth/bass/drums. 
+
+Some speakers would be good if you can stretch to them. Maybe JBL 305s ($110). Otherwise she's going to need some headphones. Which you probably have already.
+
+That setup will be demo quality out of the box, but could produce low-end pro-quality tracks with some practice.",2
+zcwlca,iyzjgt0,pinkelephants777,1670235743.0,Ableton is the gold standard! It can do absolutely anything you want,2
+zcwlca,iyzkxhy,pinkerton44,1670237050.0,"To get a good grasp on how to figure out daw I would start with something easy to use. 
+Studio one is quite simple to use. Bandlab in chrome is even simpler.
+Use the money first for an audio interface. Presonus Audiobox comes with a free version of Studio one. You can upgrade to Artist version for a reduced fee.",2
+zcwlca,iyzwz5g,NotInstallingYourApp,1670245785.0,"Do you own a Mac? I find Logic Pro to be really intuitive, but powerful. Can also try GarageBand, which is free and basically Logic Pro Lite",2
+zcwlca,iyzxkd2,sheworepants,1670246138.0,"As others have mentioned, she will also need an audio interface, microphone (for recording voice or acoustic instruments), and either headphones or studio speakers.  This could be a good bundle, I got something similar when I got started: 
+ https://www.sweetwater.com/store/detail/Scarlet2i2SG3--focusrite-scarlett-2i2-studio-3rd-gen-recording-bundle
+
+It has two inputs - one for the mic and another for another instrument (like guitar or bass).  You could look for a scarlett ""solo"" bundle if you only want the mic input.
+
+Eventually she will want a midi keyboard but that will plug right into the computer.
+
+She also needs a good computer and a nice little studio area!",2
+zcwlca,iyzzh50,dreamsthebigdreams,1670247247.0,"If you have access to an apple, Garage band is the easiest and smoothest to learn on. Plust it's free.",2
+zcwlca,iyzzleo,dreamsthebigdreams,1670247313.0,Garageband all day long... IT's free and better than most of the software mentioned in theis thread.....The rest are paid and ok for the price....,2
+zcwlca,iz03e4h,TheKCKid9274,1670249318.0,"Pro Tools is pretty great imo, I learned how to use it in like 3 days of very light work.",2
+zcwlca,iz0450a,RiffRaffCOD,1670249685.0,"Try Reaper.  It's free to try and has great videos to get you going.
+
+https://www.reaper.fm/videos.php",2
+zcwlca,iz0ffbt,MDKSDMF,1670254819.0,I use cakewalk and it’s free.  Im an idiot and have managed to figure out how to record my guitars.  Still cant figure out how to get drums to playback but sometimes I do and then forget how I did it,2
+zcwlca,iz0fx7f,Key_Doughnut_427,1670255027.0,"Garageband. Free, easy to use/learn, and the quality is there for people who dont produce as a full time job.",2
+zcwlca,iz0hkto,certaindoomawaits,1670255696.0,"Mixcraft is what I use as a singer-songwriter just playing around on a Windows PC. Easy interface, all the functionality, not too expensive.",2
+zcwlca,iz0iypd,Star_Leopard,1670256264.0,"Keep in mind you'll also need an audio interface to run a microphone (as well as for your monitors if you get good monitors), and you'll need a mic if she doesn't have a mic or only has a crappy mic, so factor that into your budget. You can find loads of threads with beginner recommendations.",2
+zcwlca,iz0jasn,JeffCrossSF,1670256404.0,"Windows, songwriter,  I’m thinking StudioOne. It’s clean, modern, easier to learn and can be used for a wide range of styles, but probably very streamlined for what your wife needs.
+
+I’d say avoid FL unless she wants to make beats, electronic music.",2
+zcwlca,iz0k2a9,mtemmerm,1670256723.0,"Unpopular opinion perhaps: get a tascam dp2488. No PC required, made especially for multitracking and mixing, real faders, all the effects you need.",2
+zcwlca,iz0kwwt,Atar11,1670257064.0,Mixcraft is pretty fire,2
+zcwlca,iz0n3x1,trottindrottin,1670257951.0,"I'm a little worried because I've read most of the comments and only seen one person mention ProTools, which I just started using. Can anyone say why no one else is mentioning it? Lol",2
+zcwlca,iz0nbdy,BennMyco,1670258038.0,"I would say some variety of cubase, be it lite or what have you.. your choice.. but I have been on cubase since the start. It’s solid all round",2
+zcwlca,iz0ntwr,tacourbano,1670258242.0,"Good on you for encouraging your wife’s creative passions! 
+
+I love FL but I don’t record many instruments, might not be best workflow for that. I think a lot of comments here have good pointers on that.
+
+If you go with something cheaper like Reason, you can maybe get an interface and mic if needed with the money saved. 
+
+Whatever you choose I’m sure the encouragement from you will be the best part!",2
+zcwlca,iz0wyzb,Brumbucus,1670261822.0,"To the last point of your edit: Yeah pickups matter a ton for electric guitar and bass (my instrument), but they can be swapped out of an existing instrument. 
+
+A kit build would be ambitious unless you’re a confident tinkerer/builder/woodworker/etc, but there are a ton of entry level instrument available that are entirely high-quality enough to play and record. Stay away from no-name Amazon specials, but Squire, Ibanez and others have superb quality for the money. 
+
+Most important about buying a bass or guitar is to make sure your wife likes the look and feel, use your local music shop to inform your decision making.",2
+zcwlca,iz15en0,Remarkable_Duck6559,1670265022.0,"I’m going to add to the flood with a left hand turn. Get an MPC one. It’s expensive, but lands as an all-in-one box. 
+
+For myself, it’s more comfortable to have a music station strictly for music. DAWs need a laptop, that need updating, have notifications, access to other time wasters. I can’t stand being ready and waiting for a load.",2
+zcwlca,iz1g0wh,Taperingbird0,1670269137.0,studio one!,2
+zcwlca,iz1k32o,PSPbr,1670270677.0,"I'm here to reinforce that you should get her an audio interface and a mic instead of a paid DAW. Regardless, it will totally make her day and you're a great dude!",2
+zcwlca,iz1l4mk,Beatswallad,1670271076.0,"You should look at presonus sphere. $15 a month and with a strong enough computer, interface, microphone,  headphones studio monitors and a midi controller,  she should be able to accomplish all you ask and infinite amounts more.",2
+zcwlca,iz1pb0c,kbazzo,1670272680.0,"I like to use ableton live which in the begging can be difficult but once you get used to it, it is very cool.",2
+zcwlca,iz1qwqp,abdulalo,1670273294.0,"Man, I would never recommend trialing DAWs. There’s a learning curve to all of them, and trying different ones might just intimidate her. If she has an iPad, just download Garageband (a simpler iteration of the Mac version) and buy an interface to connect her instruments or mics. Once she’s comfortable with it, and knows what she needs or what she’s missing out on using GB on her iPad, she could easily make the jump to a more professional Windows based DAW.
+
+Edit: there are a bunch of budget DAWs on the iPad other than GB. I think Cubase have a tablet version as well. Point is, baby steps win the race. Jumping into a full-on DAW without knowing what she needs will most likely intimidate her out of using it.",2
+zcwlca,iz1ruty,kbazzo,1670273658.0,I'm used to ableton live and really like it but in the beginning is quite hard,2
+zcwlca,iz1ruvn,ElephantBizarre,1670273658.0,Try Cakewalk - it’s free so worth pursuing,2
+zcwlca,iz1sprn,POLOSPORTSMAN92,1670273989.0,REAPER REAPER REAPER FOREVER.!!!!,2
+zcwlca,iz1ui6i,geogodnine,1670274687.0,Ableton. End of discussion.,2
+zcwlca,iz1vcv8,,1670275024.0,"Get Ableton!! I used FL for years, just switched to Ableton and it is soooo much better.
+
+Edit: ALSO, Ableton Lite is basically free and it has everything you need. I have an extra code if you need a copy, just dm me. Thought I was gonna buy the full version but realized I don't need it.",2
+zcwlca,iz1x7l7,toomdayl,1670275764.0,Cakewalk by BandLab. It comes from Sonar. And it's free.,2
+zcwlca,iz20512,tommy_cooper90,1670276939.0,You should consider Ableton. I recently bought the Intro version as an upgrade from Lite (limited to 16 tracks) for 31€. You can find the coupon code on the r/ableton sub. It’s a great start for a good price I think.,2
+zcwlca,iz20yut,Avulavu,1670277272.0,"In terms of electric guitars, the biggest difference between cheap and expensive guitars is probably stability and playability. You can get really great sounding instruments in the price range you‘d pay for DIY sets and/or materials as well. I’d look for someone who can set up the guitar properly and then you should be set with either option. Pick-ups and electronics can be changed and switched at a later point anyway, so just focus on finding a comfortable instrument first 😊👍",2
+zcwlca,iz21bc4,chason_htx,1670277415.0,">Probably the wrong subreddit but I read that the pickups matter most for sound from an electric guitar. 
+
+This dude set out to scientifically find out where the tone of a guitar comes from, great watch: https://www.youtube.com/watch?v=n02tImce3AE
+
+Is it a terrible idea to think about building her one vs purchasing?
+
+The guitar that I record with I bought for $70 from a pawn shop... also it's an entry level model. I spent more than double that on the pickups lol
+
+As with any gift for a musician... musical instruments (including software and DAWs) are an intensely personal decision. Some of us are picky bitches
+
+It's not super fun receiving a gift you won't use, or would feel pressured to use. With the guitar... I need something with a thin neck and 24 frets and I prefer a fixed bridge. She definitely should be part of the decision making process and if she doesn't know what she wants then she needs to go try some in person and see what feels good. Playing on fat necks is actually painful for me
+
+Her style will dictate pickup choice
+
+Once she has her initial setup and flow going, a weird/eclectic/vintage guitar pedal could be a good gift. Some guitarists don't use pedals but if it's unique then it's a cool conversation piece for the studio anyway",2
+zcwlca,iz25jaw,ChristianSkM,1670279167.0,"I’d advise you to go with Studio One. Version artist would already be perfect for her and there are bundles where you buy a audio interface, microphone, headphones and monitor speakers and you get this version. [presonus bundle](https://www.presonus.com/products/AudioBox-Studio-Ultimate-Bundle)",2
+zcwlca,iz292v3,cabin_fever_bob,1670280668.0,"If she’s working on a PC, Ableton is THE industry standard DAW. It’s not super user friendly at first, but Coursera has a FREE intro to ableton course through Berklee College of Music. That course helped me in my fluency and should get her up to speed so she can start creating with the platform. The possibilities are honestly endless with Ableton.",2
+zcwlca,iz29mfn,CampaignSpoilers,1670280893.0,"Cakewalk by Bandlab. It's a fully featured professional DAW that is now free (I paid several hundred for it many years ago under its prior owners).
+
+Added bonus is that there are a lot of tutorials coming out for Cakewalk now that it's free, so learning is easy. It handles both audio and MIDI very well.",2
+zcwlca,iz2ey2l,xylvnking,1670283204.0,Studio One is great. I wouldn't recommend ableton or FL for this.,2
+zcwlca,iz2ih7i,Lillynorthmusic,1670284760.0,"Fet fl, if not for its grat....well everything, its free for future updates once you buy any version.",2
+zcwlca,iz2nbv1,,1670286938.0,If you’re a Mac user Logic Pro is by far the way to go,2
+zcwlca,iz2sfy9,snalejam,1670289278.0,Studio One is the easiest DAW I've messed with from a newb viewpoint. Most of the others are stuck in decades old interfaces. It seems more intuitive.,2
+zcwlca,iz33l1k,Fader4D8,1670294358.0,Studio One is working great for me or audacity for quick stuff,2
+zcwlca,iz35a4t,azulusmusic,1670295162.0,I use FL but if she likes using live instruments Id say go for ableton,2
+zcwlca,iz39cqa,ProductionRh,1670297138.0,"If you want a daw for live sound a great one for live sound would be Pro tools or studio one or Cubase 
+
+And the great thing about studio one there is a free version online you can download on presonus website 
+
+Those are some daws that would be great for live sound like recording guitar and singing and using microphone those are the daws that are great for what your wife wants to do for recording music 
+
+ But you got her a great audio interface the focusrite 2i2 is a great audio interface I even use it when I’m on the road recording 
+
+And yes it’s better to buy a electric guitar with great pickups 
+
+I’ve been doing audio like recording and mixing and music production and producing for 15 years so let me know if have anything questions dude happy to help",2
+zcwlca,iz3diq0,townnerd,1670299186.0,"I started using Magix music maker last week.  I'm pretty impressed.  It's like logic,  but for the pc. I have to upgrade my PC to something that isn't 10 years old,  but it's pretty good. There are lots of loops that you can get pieces off of and lots of options.  Here's a piece of a tune that I'm working on as a sample.  
+ https://drive.google.com/file/d/1W9SsR2ICvZPM24AavPhVmWlTuDIewhpW/view
+
+I hope this helps
+
+Cheers",2
+zcwlca,iz3hiyt,unmade_bed_NHV,1670301270.0,GarageBand is dead simple and easily forward compatible with Logic Pro X. They’re really geared towards capturing live instruments and are laid out very intuitively. There are a lot of options but logic / GarageBand definitely have an easy learning curve and minimal menu hell,2
+zcwlca,iz9veoq,,1670427192.0,"Since she's an instrument player, look into Reaper or, if you can afford it, Cubase.
+
+Reaper has a learning curve but it's full-featured and ~60 bucks (or free!) fir personal use.
+
+ Cubase is my first love but it's more expensive. Look into the other versions for lower prices.
+
+Cubase excels at midi VST instruments (pianos, drums). I found Reaper to be clunkier with them but that might be my ineptitude.
+
+I recommend these two because you can record with time instead of a bpm which instrument players may need for tempo dynamics. Ableton, Reason and maybe FL prefer to have you stuck at one tempo unless you manually change it.
+
+My vote: Reaper",2
+zcwlca,izjlqbu,Dirk_Koboken,1670602638.0,Do you really think you can build an electric guitar?,2
+zcwlca,izkea02,vorotan,1670613485.0,"Since she is playing instruments, she’s gonna want to record them into the DAW. FL Studio isn’t an ideal environment for this. 
+
+I’d recommend Cubase, Ableton Live or Bitwig. 
+
+I don’t have personal experience with Live but use Cubase and Bitwig. 
+
+Cubase’s interface is a bit more traditional, and it can also output sheet music (you can even create parts in the note editor) so if she is able to read/write sheet music, this would be a major plus. It also has perhaps the best and most mature audio editing environment.
+
+Bitwig has rock solid MIDI timing, the Grid is a great playground for experimental stuff, has similarities with Ableton Live (the developers are former Ableton employees), such as the clip launcher, automatic beat matching, etc. 
+
+I’d say have her try any of those three to see which she feels most comfortable with.",2
+zcwlca,iyzqfin,IOnceWas,1670241516.0,"Cakewalk has always been my go-to when I want a quick setup, low threshold but fully equipped DAW.",2
+zcwlca,iyzt84b,TrickySquad,1670243449.0,"Cubase 12 is great for what she’s trying to do, if she’s a PC user. Not sure why people are suggesting Ableton for a singer songwriter application. If you wanna come up with a comprehensive “start to record and make music” list, I’d suggest this:
+
+
+Steinberg UR22 interface or something similar (you get Cubase Lite with this and subsequently a discount on upgrading to the full version)
+
+
+Upgrade to Cubase 12 pro (if you want)
+
+
+Audio Technica M50x headphones
+
+
+Rode NT1-A mic and mic stand
+
+
+Splice subscription
+
+
+Some sort of flagship synth like Serum (she can download tons of sounds for Serum from Splice)",2
+zcwlca,iyzzd1p,Yrnotfar,1670247180.0,"Bandlab is what you are looking for, imo.
+
+(This coming from a pro tools, reaper and sometimes Logic user)",2
+zcwlca,iz0jzuy,MercurialMal,1670256695.0,"After reading a few of your comments here, I would suggest FL Studio.  I use it for recording guitar and I also have an AKAI MPK Mini.  However, don’t expect to get to work in it right out of the gate.  It’ll take a while to learn the ins and outs.  Plenty of great courses on Udemy.
+
+Trust me when I say that when she learns how to navigate this daw, with her music knowledge and ability to play instruments, the piano roll is going to really open up her options and creativity.",2
+zcwlca,iyyqtg0,NugChompah,1670213961.0,I’d go with Ableton personally.,2
+zcwlca,iyzg3bh,SidMalice,1670232634.0,You can use cracked like we all did to start our music production journey! Get ableton tho it’s the best and fun to learn.,3
+zcwlca,iyzorjs,alphazuluoldman,1670240255.0,Nice mic audio interface and garage band if she’s on Mac,1
+zcwlca,iyzrzpa,TotemTabuBand,1670242621.0,GarageBand comes free on a Mac. She can upgrade to Logic when it makes sense for her music.,1
+zcwlca,iyztpp3,shrim51,1670243767.0,Garage band all day! It's the most user friendly DAW out there.,1
+zcwlca,iyzvbko,CAPTURER2010,1670244778.0,Go for FL its easy to use I personally stated using it when i was 12,1
+zcwlca,iyzvguv,Kinkyregae,1670244869.0,Garage band is a fantastic beginner DAW for people just dipping their toes in,1
+zcwlca,iyzysj6,cleanmahlungs,1670246852.0,"I'm....probably going to get downvoted for this, but on Windows I learned using Acoustica Mixcraft. (am a singer/songwriter with 4,000 or so monthly listeners) I felt it was user friendly, and ultimately the closest to garageband/ProTools (I use Protools now). It encouraged me to learn basic mixing and mastering, MIDI, and I would record using my USB mic. Very affordable as well!
+
+When I was just starting out, Ableton and Reaper were incredibly overwhelming. Granted I was 17, but that's my two cents!!",2
+zcwlca,iz0d88d,,1670253870.0, FL definitely was the best to start,1
+zcwlca,iyz38h8,,1670221738.0,[removed],1
+zcwlca,iyyzuds,Odd_Independence4230,1670219380.0,so complicated for no reason,62
+zcwlca,iyzqpl2,Famous_Two_3574,1670241720.0,"I second this, OP!
+
+FL is really great for playing around with soundscapes, combining effects and composing in the piano roll, but recording isn't its strength. However, the user interface looks far better than those of ProTools, Cubase or Ableton. I guess what I want to say is: FL Studio is a great DAW to start out, it's easy to learn, but not so great when you want to be more specific in certain areas and want to record stuff. As someone who tried ProTools, Ableton, Cubase and Reaper as well: FL definitely was the best to start for me.
+
+Also I think you're on the right path with the Producer Edition. I just want to mention that sometimes it can be way better to get a limiting version and not have too many choices in music making, as it forces you to tackle problems/ideas with more creativity instead of firing up the plugin that does it instantly.
+
+Anyway, hope your wife makes some sick tunes :D
+
+Edit: FL is also best when looking at pricing. Don't underestimate free updates!",11
+zcwlca,iz1y9tr,Kosmikdebrie,1670276192.0,Man I love Fl studio so much and it breaks my heart to agree that FL is not the best way to go.,3
+zcwlca,iz21kwj,chason_htx,1670277522.0,"bableton has comping now
+
+I wish they would have spent that time adding useful features but if you record actual audio and don't just do blips and blops you'll probably appreciate it lol",2
+zcwlca,iz0agaz,needssleep,1670252634.0,"Additionally, Kenny has lots of videos on recording and editing guitars!",5
+zcwlca,iz0qw3a,DrKrepz,1670259452.0,"Studio One is, in my opinion, superior to Cubase. It has a similar layout and workflow, covers pretty much the exact same feature set with a vastly better UI, plus a ton of nice workflow features built in.",3
+zcwlca,iz0171c,_antic604,1670248182.0,"Because even Elements is complex, outdated and confusing. Studio One Artist is IMO the perfect middle ground.",3
+zcwlca,iyyylt5,IAmBrahmus,1670218556.0,"It didn't occur to me to specify her platform, but she is on Windows. Thank you though!",21
+zcwlca,iyyz7v7,a88cru8her,1670218964.0,"I can second Ableton. But it's not the cheapest. Something like Reaper is certainly cheaper. Something to know though is she can get a trial of Ableton, and I'm sure others. She can then mess around with them and see which she likes best. A lot of it comes to personal preference",20
+zcwlca,iyzy4c0,merrittmusic,1670246463.0,It’s very capable.  I’ve composed literally thousands of tracks for tv with it.,12
+zcwlca,iz0ruhw,MaxChaplin,1670259832.0,"""Beginner-friendly"" is pretty subjective, since different people have different intuitions. But yeah, seems like Cakewalk is specifically geared towards musicians who aren't computer people. And since it's free, OP can buy her a good audio interface instead.",10
+zcwlca,iz07hhl,iownakeytar,1670251274.0,"Second Cakewalk. Even after years of not having looked at a DAW, it was super easy to get going with recording live vocals.",8
+zcwlca,iz050hk,Kawhi_Leonard_,1670250111.0,"No, Ableton is built specifically for recording audio and being able to work with live performances. It's entire setup is based around quickly recording live instruments, I don't know where you got the idea it's bad for their use case. It was literally created with that exact use case in mind. While it's used a lot for making electronic music, in no way is that what's it made for, or even what it's best at.",16
+zcwlca,iz2zsp1,7lizar,1670292640.0,"Oh yes please, please, cakewalk is so under rated. Especially for this. I use cakewalk and Ableton live (used to do fl studio, but use it less now days that i do mostly live instruments and vocals) cakewalk is so good and, in my opinion much more familiar of your coming from an analogue background",2
+zcwlca,iz34k2h,D_D,1670294817.0,Disagree. Ableton is a great all-around DAW. I do mostly audio recording with it.,2
+zcwlca,iz3vsqz,TechGuyBloke,1670310946.0,"I recommend Cakewalk too.
+https://www.bandlab.com/products/cakewalk?lang=en
+
+It also has a active user forum, which is great when you need help and advice.
+https://discuss.cakewalk.com/index.php?/forum/2-cakewalk-by-bandlab/",2
+zcwlca,iyz5z5n,mafibasheth,1670223791.0,"I have used most popular DAWs, and Studio One is my favorite from a UI standpoint. It's very underrated.",6
+zcwlca,iyz7u9d,solidshakego,1670225287.0,"PSA. You can ""rent to own"" studio one through splice. I didn't find it good. But that's from personal reasons and what kind of music I make.",6
+zcwlca,iyz4pzw,ainjel,1670222834.0,I've heard great things about Studio One but can't speak from experience cause I haven't used it yet.,4
+zcwlca,iyzjkj2,SirMooSquiddles,1670235835.0,Its great! I highly recommend it.,6
+zcwlca,iz0i2ny,MercurialMal,1670255895.0,"I’m not sure where this opinion comes from. 
+
+Right click on the track -> audio recording routed to x channel -> select mono/stereo input on the channel -> done.  That’s all there is to setting up recording.  After that, you simply set tempo, 4 or 8 bar lead in, set metronome, then hit play.
+
+And you only have to do that *once* (or for as many separate instruments you have) and create your own template that you can reuse.
+
+Is it unintuitive to someone unfamiliar with the DAW?  Sure, as is everything else.  But it offers a great degree of flexibility that opens up when you get to the mixing/mastering side of things.",5
+zcwlca,iyyzthy,Odd_Independence4230,1670219364.0,lol ya i was using my friends studio and i was like “bruh this is so unnecessarily complicated”,6
+zcwlca,iz09vxr,noneedarguing,1670252378.0,True words - this entire thread basically is just a poll of whats currently trending in the world of DAWs,5
+zcwlca,iz0b0ug,NonPrime,1670252899.0,"Agree with this. I'll live and die on the hill of Reaper, but for a first time novice DAW user Cakewalk is probably much easier to learn. Then when more advanced needs come along Reaper will be there with open arms and tutorials galore.",3
+zcwlca,iz0t168,IAmBrahmus,1670260297.0,">akin to asking which football team you should support
+
+In a perfect world everybody would support my Wolves. But I am an American, so what do I know.
+
+Thank you for the detailed response, it was very helpful. Especially the Spitfire information, since I had never heard of that before. I don't think she will be traveling much with the midi controller, but we have 6 and 7 year tornadoes that live in the house so I got a case for that to be safe.",1
+zcwlca,iz0a6jc,IAmBrahmus,1670252512.0,I got her an AKAI MPK Mini MK3.,3
+zcwlca,iyyy5zi,IAmBrahmus,1670218269.0,She's on a PC.,2
+zcwlca,iz0ivp9,MercurialMal,1670256228.0,"Can you elaborate on why you say that FL Studio is suboptimal for recording?  What, exactly, puts it behind its competitors?  Saying that it excels only in “pattern based beat making” does a huge disservice to it in that the piano roll along with VSTs/plugins goes far beyond just “beat making”.  And what about channel routing in the mixer and all that it encompasses?",3
+zcwlca,iyyy5dd,IAmBrahmus,1670218258.0,"Unfortunately, she is on a PC. Thank you for the advice though, the consensus seems to be not FL so I am glad I asked.",2
+zcwlca,iz0quh4,IAmBrahmus,1670259435.0,"I work at a community college, so that could be an option.",2
+zcwlca,iz0w4cw,IAmBrahmus,1670261499.0,"Too late on the Mini. She had mentioned she wanted a small Midi controller to experiment with and ""isn't capable"" of learning the piano so she didn't want a full keyboard. My assumption is I will be buying her a full size controller in 6 months when she starts playing the piano/keyboard anyway so hopefully it works for now and then we have it if she wants to be mobile to make music with others or me and the kids want to experiment in the future.",1
+zcwlca,iyyy07n,IAmBrahmus,1670218166.0,"I figured I would need something for the guitar down the road, but had just assumed the 3.5mm microphone jack would be good enough for the rest. Thank you for the head's up!",3
+zcwlca,iyzma5z,garygeeg,1670238237.0,"No it's not. It's $60 after the 60 days trial or 225 for a pro license if you make more than 20k a year. 
+It's trial will continue without restrictions (just a nag screen) which seems to lead people to think it's free forever.",4
+zcwlca,iz0aaeb,IAmBrahmus,1670252560.0,We just have PCs and an old Linux box.,1
+zcwlca,iz0anfq,IAmBrahmus,1670252727.0,"I got her an AKAI MPK Mini MK3 for Christmas, and she has a new-ish gaming laptop that I don't recall the specs of offhand. I had no idea about the audio interface so I will be looking for one of those next. Thank you!",2
+zcwlca,iz0z42e,IAmBrahmus,1670262606.0,"I do like building things, which is why that appealed to me. I don't expect to save money or have it be superior to a quality name brand instrument, but if I can get into the realm of ""good enough"" I would rather make her one. Just not sure if it would be doing her a disservice.
+
+ETA: I was thinking I would buy a neck/neck kit and build the body.",2
+zcwlca,izkatgr,IAmBrahmus,1670612111.0,"Yes. There are tons of guitar kits available. I plan to buy the neck and build the body. This isn’t much removed from a kit build, and I have the requisite tools and (I believe) enough experience with other projects that this shouldn’t be too difficult. I know it won’t be as good as a commercial option for the same price, but I gain the experience of building a guitar and my wife will have a unique instrument to hang on the wall, if nothing else.",1
+zcwlca,iz0akpw,MrAlbinoPenguin,1670252690.0,I STRONGLY agree!,2
+zcwlca,iyz3doa,AutoModerator,1670221841.0,"This submission has been removed. Music can only be posted in the [most recently weekly Promotion thread](https://old.reddit.com/r/WeAreTheMusicMakers/search?q=weekly+promotion&restrict_sr=on&sort=new) or the [most recent bi-weekly Feedback thread](https://old.reddit.com/r/WeAreTheMusicMakers/search?q=feedback+thread&restrict_sr=on&sort=new). If you want someone to listen to your music and tell you about it, it belongs in the Feedback thread. Do not post this content outside of the weekly threads.
+
+If you are submitting this link to inquire about a production method or specific musical element, please submit a text post with the link and an 
+explanation of what it is that you are after.
+    
+Cheers, -WATMM
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/WeAreTheMusicMakers) if you have any questions or concerns.*",-1
+zcwlca,iz2w95b,Amoxil-Fried-Rice,1670291040.0,"started to learn guitar at 12, wanted to record some songs using guitar, downloaded FL without the basic understanding of a DAW, gave up\\\\",2
+zcwlca,iz2nzdd,nccDaley,1670287232.0,+1 for studio 1,2
+zcwlca,iz09nc5,noneedarguing,1670252270.0,Whats outdated about it? Still good enough for Hans Zimmer...,4
+zcwlca,iyyzx8a,ainjel,1670219433.0,"Ah, then probably Abelton or Reaper would be your best bets.",32
+zcwlca,iz0dxfv,MaryMalade,1670254173.0,"I personally don't have experience with it but I'm told that Studio One is quite similar to Logic Pro. Although something just occurred to me. Often MIDI keyboards come bundled with a 'lite' version of a DAW, so check if the one you bought has any.",4
+zcwlca,iz0q668,Phoenix_Kerman,1670259172.0,it could be possible to hackintosh the machine. it's what i did so i could use logic. 4 years on the install going strong. logic's value for money for people producing on their own is incredible. even logic's drummer and autodrummer are great for people without a drum kit or who aren't too comfortable programming midi. the built in amp sims are also decent if you fiddle enough with them. definitely worth look imo,2
+zcwlca,iyyzm2o,IAmBrahmus,1670219226.0,"I was worried about buying FL studio because it is on sale right now, but I think that it is not the best option for her. If there is free trials that is probably the best option. Let her play with a few and then decide.  The problem is she will choose Reaper (or a free option) because of the price and not because it is what she actually wants.",12
+zcwlca,iyzmvua,compotethief,1670238739.0,What about Bitwig?,3
+zcwlca,iz0zlt4,Lizard,1670262791.0,Totally agree with all of these points.,2
+zcwlca,iz076ui,Lizard,1670251139.0,"It just got comping as a major feature in version 11, wasn't there for 10 of its major release. I consider this one of the fundamentals of tracking live audio. Then we have the loop-based UI that adds complexity to the use case when you just want to record a linear track, especially if you don't use computers a lot. I just think that there are tools that don't add this kind of complexity, while offering the full variety of useful functions for what OP described as their use case.",2
+zcwlca,iyzjdzy,SirMooSquiddles,1670235671.0,"Exactly Studio One is great for me for so many reasons, but it does boil down to personal taste",3
+zcwlca,iz0p8zv,Furiousmate88,1670258806.0,"Good thing is, Artist is sufficient for most beginners. Great value for money when just starting. And then there is sphere, unless you Care about owning it yourself, i would say thats the best solution.",3
+zcwlca,iz7vzxe,launchswitch,1670381832.0,Agreed. I don't make beats and just use FL Studio to record and mix. I have zero problems and find it easy.,4
+zcwlca,iz0ugug,TheProffalken,1670260857.0,"No worries, glad it helped.
+
+FWIW, the audio on [https://www.youtube.com/watch?v=k2bl4hO1eDc&ab\_channel=MatthewMacdonald-Wallace](https://www.youtube.com/watch?v=k2bl4hO1eDc&ab_channel=MatthewMacdonald-Wallace) is entirely from free VST's, composed using Cakewalk (including the video editing) and, whilst it's not going to win me any Oscars for best OST, it's the best work I think I've ever done and if nothing else gives a flavour of just how good virtual instruments can be these days!",2
+zcwlca,izj0vs4,garygeeg,1670593789.0,Sorry been offline. The Akais come with the MPC Beat software which I've never used but believe is more focussed on beats etc than straight recording. So much help I know. :),2
+zcwlca,iz0nng0,dannydigtl,1670258171.0,I’ll sell you a Cubase 10 Pro license cheap if you’re interested. Latest version is 12,2
+zcwlca,iyzdi6a,MuhSound,1670230208.0,"If she’s going to use the DAW for vocals I would lean toward Protools. That’s pretty industry standard for live recording in general. Most major studios will have every DAW, but you really only see engineers using ProTools in the bigger studios when tracking vocals and live instrumentation.",1
+zcwlca,iz0mtaw,Teddy_Bones,1670257829.0,"Thanks for the reply. You make some good points about some really cool functionality, but to be fair, I didn't say that it ""only"" excels for pattern based beat making. I said that it excels at that. :)
+
+What puts it behind other daws are comping features, editing tools and grouping. In some other daws, these three things are combined allowing for an advanced recording and editing workflow. Let's say you are recording drums, and you want to do 8 takes, do a comp between all the takes with crossfades and everything, and then lastly edit the toms by themself without the editing groups. This is easy peasy in pro tools. To my knowledge, not so much in FL. I could be wrong though. Would love to see an easy comping workflow in FL. 
+
+I heard someone said that comping features was a part of the latest beta in FL? Would be great if they focused on this, cause its a really cool daw.",3
+zcwlca,iz0rg6u,Denvermax31,1670259673.0,Its reqlly easy to get a .edu account and it save dme like 400 bucks on abelton. Thats the best one in my opinion.,3
+zcwlca,iyz2qm1,SwellJoe,1670221383.0,"How important is live recording to her goals? It sounded like from your description that'd be the most important part of it. If so, you need better than the mic input on the computer, and you need a better mic than what will plug into it.
+
+A bunch of quite good, low cost, mics are on sale right now. You can get something that is quite good from reliable manufacturers for under $100. A large diaphragm condenser would be a good choice that works well on vocals and acoustic guitar.
+
+While you can get microphones that plug directly into USB, including some pretty good and pretty cheap ones, I prefer to have a separate interface with at least two inputs, so I can record voice and guitar simultaneously without sync problems. Focusrite is good and cheap, but not quite cheap enough to fit into your budget.
+
+Anyway, a computer mic input is going to be quite poor, tuned for speech and likely quite noisy, relatively speaking. And, you can pretty much only plug very bad microphones into it. If you want to get live sounds into a computer, the most important pieces are the transducer (the microphone), the room you're in, the preamp, and the ADC, probably in that order of importance, though any weak link in the chain results in a poor recording.
+
+Edit: Also note that most little USB interfaces from e.g. PreSonus, Focusrite, or Steinberg, include either PreSonus Studio One Artist or Ableton Live Lite or Cubase LE, any of which good beginner DAWs sufficient for getting started (and probably better than FL Studio, if live music is important to her goals). PreSonus AudioBox 96 is two-channels, well-reviewed, and under $100. Leaving money in your budget for a microphone. I think that's your best bet, if I'm understanding what she wants to do.",5
+zcwlca,iyzg2tk,ddevilissolovely,1670232621.0,"No, if you're spending $100 I'd suggest you spend it on an interface from a manufactorer with good ASIO drivers and go with Reaper for DAW, it will allow her to hear herself with hardly any delay. You'll just need a 1/4 inch adapter so she can connect she headphones if they didn't come with one.
+
+By the way the trick to getting both ASIO and other sources to play at the same time is to set them both to the same sample rate and bit depth, otherwise ASIO will disable them and you can't do things like sing along to karaoke tracks or drum tracks found on YouTube.",5
+zcwlca,iyz492o,blue_groove,1670222482.0,"You'll definitely want an audio interface for recording, but in the meantime you might be able to get the latency low enough for MIDI if you use ASIO drivers (google ASIO4all).",2
+zcwlca,iyzuu5r,midwestrider,1670244479.0,"> just assumed the 3.5mm microphone jack would be good enough for the rest
+
+
+Good heavens, so glad you specified.
+
+The answer is no. A vocalist needs a sensitive condenser mic, a singer/songwriter needs two, and they need a two channel pre amp with a low noise floor.
+
+A brass player needs a dynamic mic.
+
+Anyone multi-tracking vocals or acoustic instruments needs studio headphones and a low latency audio interface.
+
+A mixer/producer needs balanced studio monitors.
+
+You can avoid the cost of three mics and a two channel interface and monitors and headphones by cheaping out and using an all-in-one USB mic, but the expense will be in recording quality and monitoring convenience",2
+zcwlca,iyzocwy,m23574,1670239936.0,I mean all you have to do is close the nag screen if they really didn’t want it “free” they would make it more restrictive but I see what you’re saying,2
+zcwlca,iz0kcc7,mtemmerm,1670256837.0,"On Linux ardour is a solid daw, and free.",2
+zcwlca,iz0kwp2,sheworepants,1670257062.0,"Awesome!  The keyboard will work with the DAW directly, but if she wants to sing or record her instruments, she'll likely need the audio interface with the microphone.  She can have tons of fun with just the keyboard and the DAW in the meantime!
+
+I started a similar journey last spring after having come back to guitar for a few years.  I ended up using Reaper for my DAW (I watched some getting started type videos on Ableton, too).  As others have mentioned there is a learning curve and you have to figure out the virtual instruments (LABS and Komplete Start, both free, for the biggest returns in terms of fun, IMHO), but if she's willing to put in the time and enjoy the sometimes slow/frustrating journey, Reaper is great.  (I can’t overstate how important the Kenny Gioia videos on the reaper website are.  Then if you need to drill down on anything you can find more specific videos on youtube.)  Ableton would probably be my pick for something easier, more plug and play, faster time-to-fun, but it's pricey.  Sometimes I think the easy paths / built-in workflows on something like Ableton that don't really exist on Reaper can be a bit limiting - you're not forced to color outside the lines as quickly.  But really, they are all doing very similar things - you can't really go wrong.  Good luck!",2
+zcwlca,iz103mj,Brumbucus,1670262977.0,"Gotcha. Lots of good info over at r/luthier for both kit-builds and scratch-builds. 
+
+Your first guitar probably is either gonna take a ton of time or miss a bit on quality, that’s just how it goes (my first bass was “playable”, and I’m a career woodworker). 
+
+Good luck with the gifts and the process!",2
+zcwlca,izkesqk,Dirk_Koboken,1670613697.0,"Fair enough. 
+
+After reading your reply I believe you can handle this project and do a good job. Good luck and enjoy!",2
+zcwlca,iz2wi1z,Odd_Independence4230,1670291152.0,"noooooooooo lol, hope u picked it back up again with a better daw. even bandlab is better for recording audio than fl studio",3
+zcwlca,iz0a2im,_antic604,1670252460.0,"Almost anything takes 2-3x more clicks than in e.g. Bitwig or Studio One. That's what I call outdated. It probably has the most features of any DAWs, but 80% of people need just 20% and it's not like Elements or Artist make using them any easier.
+
+Cubase is awesome, but not to a DAW novice.",4
+zcwlca,iyz0a2n,IAmBrahmus,1670219669.0,"It will probably be Reaper because she will balk at the Abelton pricetag, but going to try and have her demo a few and pick what works best for her.",17
+zcwlca,iyzmy1j,compotethief,1670238790.0,No one mentioned Bitwig. Why?,6
+zcwlca,iz0esmj,boredonthemoon,1670254552.0,"The alternative to Logic on Windows is Cubase. Both have a very similar workflow and I'm yet to meet anybody who hasn't transitioned either way with relative ease.
+
+I personally prefer Ableton, but wouldn't say it's the easiest. It either clicks with people or it doesn't.",2
+zcwlca,iyz064r,a88cru8her,1670219596.0,I think I can give you a free license to Ableton live lite. I feel like I've got a serial number with something I bought a while back. I'll look for you tomorrow. You can then upgrade it to the full version for cheaper than regular price,21
+zcwlca,iyz2js5,,1670221250.0,"Reaper is a great daw regardless of the price, that's just a bonus",11
+zcwlca,iyz6x9v,e_j_white,1670224542.0,"I've kept trying to use Ableton over the years but it never sticks. 
+
+Last month I started using Reaper and it's awesome. There's a huge amount of Youtube tutorials (see [reaper.fm](https://reaper.fm)), and a solid community. Also, you can try it for 2 months free before buying.
+
+It sounds like she wants to play music and record -- I would avoid FL because it's mostly geared toward making electronic/dance music.",8
+zcwlca,iz15j3t,ClemDev,1670265071.0,"If you want to record a linear track, use the linear layout, not the session view.",3
+zcwlca,iz0wnm8,IAmBrahmus,1670261704.0,"Thank you for sharing, that is amazing. I am really excited to see what she comes up with.",1
+zcwlca,iz0ozt7,MercurialMal,1670258706.0,"FLS has NewTone and Pitcher for time and pitch manipulation.  But I wouldn’t expect it to do what Pro Tools was designed out of the gate to do: live recording on multiple tracks for multiple instruments.  
+
+Typically, drums are programmed using the piano roll and you can organize it in a way where you can mix each tom, cymbal, snare, kick, etc individually with control over attack and swing on each for variation, but I’m sure you know all of that.
+
+FL Studio is perfect for bedroom recording artists that have a vocal mic and a DI line or mic for their instrument(s).  Lot of flexibility and control throughout the recording, mixing, and mastering process.  All at a price that won’t break the bank with free updates and new versions for the life of the product.  I don’t think there’s anything comparable out there for that niche.
+
+I use a Fractal Audio FM3 for guitar and bass FX, and GGD for drums.  Took some time to learn setup and routing, renaming and remapping midi controller pads for the drums to the piano roll, etc, but well worth the time investment.  I can go from loading the software to recording in about 30 seconds flat.",3
+zcwlca,iz1hcvk,IAmBrahmus,1670269643.0,"Thank you, I will check out r/luthier when I get closer to making that decision. I was expecting it would take a ton of time **and** miss a bit on quality, so that is all good. I am definitely not as skilled working with wood as you are, but I believe I have most of the tools needed so I will research more.",2
+zcwlca,iz30ld7,Amoxil-Fried-Rice,1670293002.0,i use logic pro now🥲,3
+zcwlca,iz0f1kv,noneedarguing,1670254658.0,"Right - thx for clearing it up. If I wanted the ""just recording-no frills"" fastest workflow workstation there is, would you lead me towards bitwig or Studio one?",3
+zcwlca,iz0csid,mrsquare,1670253682.0,"Lifetime Cubase user and I 100% agree. IMO the Pro version is better than any other DAW, but it's elements and artist versions are simultaneously too unnecessarily complicated and too restrictive for people less experienced with music production (who those  cheaper versions are aimed at)",4
+zcwlca,iyz4l0g,ainjel,1670222729.0,"That's awesome. And if she feels intimidated by the process or decides she loves it and wants to go further, there's a whole community of women (myself included) who are all about helping other women learn to record. Soundgirls is my favorite of them, lots of amazing folks stepping up in that community to empower, connect, and teach. 
+
+You're a good egg, OP. :)",15
+zcwlca,iyzu76w,architka,1670244076.0,Ableton intro is on discount for about 40 bucks using a discount code. Check r/Ableton,6
+zcwlca,iyzw9sc,MuddPuddleOfPain,1670245363.0,Try studio one as well.,9
+zcwlca,iyz80uy,SoundMasher,1670225441.0,"Price tag aside, Ableton also has a weird learning curve if you're not a beatmaker, or doing live work. Reaper would be the better choice IMO",7
+zcwlca,iyzvciw,confusedblues,1670244795.0,"I use the paid version of reaper, and really like it. That, a focus focusrite scarlet 2i2, and a couple decent mics will go a long way for some home recording.",2
+zcwlca,iz0ppuw,the_umm_guy,1670258994.0,"For what it’s worth I am not a DAW expert but I have used Reaper a bit and I like it. However, I purchased an Audient id14 audio interface awhile back that came with Cubase 11 lite and I’ve fallen in love with it. As a solo dude making music for fun it is a pretty nice intuitive interface and I haven’t missed any functions that Reaper has that Cubase doesn’t. Might be something to consider too.",2
+zcwlca,iz0uyxx,GimmeTwo,1670261051.0,Bitwig is a good choice too.,2
+zcwlca,iyz8v5s,Instatetragrammaton,1670226149.0,"Check https://afreestudio.com/ . Reaper's set of included fx is great, but instruments - not so much.",3
+zcwlca,iz0huon,beirch,1670255806.0,"The price tag and the fact every single girl in my sound design and song writing class hated Ableton cause of how ""grey and drab"" it looked. They vastly preferred Logic.
+
+Having said that, there are plenty of girls who love Ableton, but it did seem to be a shared sentiment between the ones in my class anyway.",3
+zcwlca,iyz841b,tacetmusic,1670225511.0,"Search for Ableton lite key on here and other subreddits. Many midi controllers come with a free ""lite"" version of Ableton, and kind people who don't need it as they already have the full version will often post up their key for others to use.
+
+Come to think of it, check if the midi controller your buying comes with one, they usually do",2
+zcwlca,iyz0ce3,IAmBrahmus,1670219714.0,"That would be amazing! Thank you, I really appreciate it.",8
+zcwlca,iyz0eid,Fearless-Judgment-33,1670219754.0,Ableton Live free trial is 90 days. Try that first.,7
+zcwlca,iz18q0x,Lizard,1670266311.0,"Sure, but you need to know that",1
+zcwlca,iz0qqv3,Teddy_Bones,1670259396.0,"Sounds like a great match for you. :) but like you say, it's for a different audience. What a great time to be a music producer in. So many great options!",3
+zcwlca,iz1k6kd,Brumbucus,1670270713.0,"Hey, feel free to send me a PM with any questions when you get closer. I know we all have the same internet to look through, but having a person to bounce ideas off of can sometimes be easier than brute-forcing YouTube and the search engines.",2
+zcwlca,iz1ck1q,_antic604,1670267801.0,"Studio One 100% (or perhaps Garage Band, but I'm a PC person so have no idea).",5
+zcwlca,iz10gmb,LemonEar,1670263112.0,"Its easy enough to change the color scheme of Ableton, even a site that’s completely devoted to downloadable skins. A friend of mine gave their Ableton a vapprwave color scheme. I'll see if I can find the site and link it",3
+zcwlca,iyz0oee,a88cru8her,1670219943.0,"You're welcome. It will save you $100. If she likes it you can upgrade it to the standard version, or suite, for less money. 
+You could also buy her a course on using Ableton from somewhere like Udemy for around $10 that would give her the basics on using it. We can chat tomorrow",11
+zcwlca,iyz0pbv,IAmBrahmus,1670219961.0,Going to have her try all options with a free trial and go from there.,7
+zcwlca,iz3osx4,ClemDev,1670305750.0,Yes. Most daws require at least 101 knowledge to use them correctly. Ableton isn’t unique in that respect.,3
+zcwlca,iz1g47a,,1670269172.0,[deleted],2
+zcwlca,iz0rlql,MercurialMal,1670259736.0,"Oh, absolutely.  Aside from large scale productions that Pro Tools was explicitly designed for, it really all boils down to what *workflow* suits you best as an artist or producer.",2
+zcwlca,iz1ofbl,IAmBrahmus,1670272342.0,"Awesome, thank you for your generosity! I will definitely take you up on it.",2
+zcwlca,iz375gx,noneedarguing,1670296058.0,"Thx pal, i'll look into it :)",3
+zcwlca,iyz2sir,blue_groove,1670221421.0,"That's a great suggestion. As someone who just picked up Ableton earlier this year, I would definitely recommend going through a course, especially since it's her first DAW. It wasn't even my first, but I was still overwhelmed at the beginning as I initially tried to figure everything out on my own (big mistake heh). Thankfully there are a ton of really amazing courses out there these days and it's really not too complicated once you get going and everything starts to click. Best of luck to her (and kudos to     u/a88cru8her for hooking her up with Ableton!). Hope y'all have a great holiday season!",4
+zcwlca,iyzd7qy,soyelsol,1670229940.0,"Cool thing about Ableton is that at the bottom left corner, anything you hover over is explained in depth
+
+Any plug in, parameters, etc are explained and it allows you to learn as you go.",7
+zcwlca,iz1tech,Lizard,1670274254.0,"I'm aware. My point is that you don't even need to consider it or might get confused by it in tools that don't offer it at all. I often have to work with people who have little computer experience, and you may be surprised by how small the things are that can throw them off.",1
+zcwlca,iz0uvvs,Teddy_Bones,1670261019.0,"Yes, I agree, but having used so many different daws these latest years, I have to say that there are important omissions in all of the largest apps.  
+
+
+Protools lacks a lot of functionality in the piano roll.  
+FL lacks comping. (something which is useful for small scale as well)  
+Studio one really leaves a lot to be desired editing wise.  
+...and so on.
+
+Let's hope they all play catch up with each other. :)",2
+zcwlca,iz0weq3,MercurialMal,1670261610.0,"I did some light reading on the comping problem in FL Studio (or lack of tools for it).  You can slice audio samples and arrange them however you like then bounce them.  But for 8+ tracks that would be kind of arduous.  For vocals and multitracking guitars, not too bad.",2
+zcwlca,iz0ypdj,Teddy_Bones,1670262452.0,"Yes, that would be the workaround. It works, but leaves a lot to be desired when auditioning takes and switching between them quickly.  I.e. in protools I often use the first part of a word from one take and the last part from another. And I can make two different comps and compare them quickly with one click.  I would recommend trying a demo of studio one or pro tools and reading up on their comping workflow next time you're recording vocals. It's really eye opening and addictive.   
+
+
+A good analogy would be the way FLs channel rack works. You can do all that in other daws as well, but it's really slow when compared.",3
+zcwlca,iz1fo4b,MercurialMal,1670269006.0,"Ah, gotchya.  And I sure will.  Thanks for the suggestion and elaboration.",3

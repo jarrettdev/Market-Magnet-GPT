@@ -65,8 +65,8 @@ def write_youtube_response(response, terms, subreddits, out_dir):
 
 #sort_choices = ['relevance', 'top', 'new', 'comments', 'hot']
 #time_filter_choices = ['year', 'month', 'week', 'day', 'hour', 'all']
-sort_choices = ['relevance']
-time_filter_choices = ['year']
+sort_choices = ['relevance', 'top', 'new', 'comments', 'hot']
+time_filter_choices = ['year', 'month']
 # Set up NLTK
 nltk.download('stopwords')
 nltk.download('punkt')
@@ -91,8 +91,8 @@ def combine_text_files(target_dir):
 
 
 def run_query(subreddit, search_term):
-    sort_choices = ['relevance']
-    time_filter_choices = ['year']
+    sort_choices = ['relevance', 'top', 'new', 'comments', 'hot']
+    time_filter_choices = ['year', 'month', 'week']
     for sort in sort_choices:
         for time_filter in time_filter_choices:
             post_csv = f'./data/reddit_search_results/{subreddit}/{search_term}/{sort}_{time_filter}_posts.csv'
@@ -338,9 +338,9 @@ if __name__ == "__main__":
 
     openai.api_key = openai_api_key
     target_dirs = []
-    terms = ['idea validation', 'market research']
-    subreddits = ['startups']
-    dir_name = 'study_startups_research'
+    terms = ['collaborate', 'promote', 'engage', 'help']
+    subreddits = ['wearethemusicmakers', 'makinghiphop']
+    dir_name = 'study_music'
     #lowercase all term
     terms = [term.lower() for term in terms]
     subreddits = [subreddit.lower() for subreddit in subreddits]
@@ -351,8 +351,10 @@ if __name__ == "__main__":
     #come up with directory title
     
     for target_dir in target_dirs:
+        #print(f'Processing files in {target_dir}...')
         if not os.path.exists(target_dir):
             os.makedirs(target_dir)
+            #print('RUNNING QUERY FOR', target_dir.split('/')[-1], 'on', target_dir.split('/')[-2])
             run_query(target_dir.split('/')[-2], target_dir.split('/')[-1])
         combine_text_files(target_dir)
     cross_combine_text_files(target_dirs, out_dir=f'./data/reddit_insights/{dir_name}')

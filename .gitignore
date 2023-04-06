@@ -3,3 +3,4 @@ reddit_credentials.json
 venv/
 package-lock.json
 node_modules/
+reddit_chain.py

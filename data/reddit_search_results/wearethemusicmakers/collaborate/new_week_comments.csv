@@ -1,0 +1,11 @@
+post_id,comment_id,author,created_utc,body,score
+126g55r,jebt8qo,kilegram,1680212037.0,What kind of adapter do I need to record audio directly from a Yamaha Reface CS directly to an iOS/iPadOS device,1
+126g55r,jezr6d3,Swimming_Wrongdoer59,1680656051.0,"When mixing, what optimal db level should my overall master be hitting before being mastered?",1
+126g55r,jeegxfu,10000Pigeons,1680267270.0,"The absolute cheapest way to do this is with a TRS -> TRRS cable from the headphone out of the keyboard into a TRRS/Lightning adapter for your iOS device (headphone adapter)
+
+This essentially tricks your phone into thinking you have a headphone/mic combo plugged in.
+
+The mid range option is to get an iRig or something similar, search for ""iOS Audio Interface"".
+
+The best stuff you can get are full audio interfaces that also have lightning output",2
+126g55r,jeepzs1,kilegram,1680271400.0,Thank you. I’ll look into these options,2
